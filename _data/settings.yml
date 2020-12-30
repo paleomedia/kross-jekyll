@@ -1,13 +1,13 @@
 #-------------------------------
 # General Site Settings
 
-title: Kross
+title: Paleomedia
 logo: 
-author: themefisher
+author: paleomedia
 description: this is meta description
-email: steve.fruits@email.com
-phone: +880 2544 658 256
-address: 125/A, CA Commercial Area, California, USA
+email: nathaniel.hoffman@gmail.com
+phone: 
+address: 
 copyright: Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Getjekyllthemes](https://getjekyllthemes.com)
 
 menu:
@@ -38,13 +38,13 @@ disqus-identifier: # Add your shortname for Disqus Comment. For example mr-brown
 # Hero Section
 
 hero:
-  hero-title: Hi! I’m <br> Christoher <br> UX designer
+  hero-title: Be the media you want to see in the world.
 
 social:
-- {icon: "ti-facebook", link: "#"}
-- {icon: "ti-instagram", link: "#"}
-- {icon: "ti-dribbble", link: "#"}
-- {icon: "ti-twitter", link: "#"}
+- {icon: "ti-facebook", link: "https://facebook.com/nathanieljudd"}
+- {icon: "ti-instagram", link: "https://instagram.com/postpaleomedia"}
+- {icon: "ti-linkedin", link: "https://linkedin.com/hoffmannathaniel"}
+- {icon: "ti-twitter", link: "#twitter.com/paleomedia"}
 
 
 #-------------------------------
@@ -52,7 +52,7 @@ social:
 
 # About Section
 blurb:
-  Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+  Paleomedia means doing things the right way for maximum impact. 
 
 blurb-btn-link: '/about'
 blurb-btn-name: know more
@@ -76,18 +76,18 @@ work-process:
 
 
 # My Team Section
-team:
-  - title : "Jack Schenziwe"
-    image : "assets/images/team/member-1.png"
-    designation : "Project Manager"
+# team:
+  # - title : "Jack Schenziwe"
+  #   image : "assets/images/team/member-1.png"
+  #   designation : "Project Manager"
     
-  - title : "Julias Carlie"
-    image : "assets/images/team/member-2.png"
-    designation : "Web Developer"
+  # - title : "Julias Carlie"
+  #   image : "assets/images/team/member-2.png"
+  #   designation : "Web Developer"
     
-  - title : "John Doe"
-    image : "assets/images/team/member-3.png"
-    designation : "Designer"
+  # - title : "John Doe"
+  #   image : "assets/images/team/member-3.png"
+  #   designation : "Designer"
 
 
 #-------------------------------
@@ -95,10 +95,10 @@ team:
 
 skills-title: Skills
 skills:
-- {name: Web Design, color: '#fdb157', value: '90%'}
-- {name: Logo Design, color: '#9473e6', value: '60%'}
-- {name: After Effects, color: '#bdecf6', value: '80%'}
-- {name: Web App, color: '#ffbcaa', value: '70%'}
+- {name: Writing & Editing, color: '#fdb157', value: '90%'}
+- {name: Info Strategy, color: '#9473e6', value: '60%'}
+- {name: Organizational Communications, color: '#bdecf6', value: '80%'}
+- {name: Projects & Reports, color: '#ffbcaa', value: '70%'}
 
 
 #-------------------------------
@@ -293,4 +293,4 @@ client-slider-items:
 # Contact Section
 
 contact-title: Contact Info
-contact-email: steve.fruits@email.com
+contact-email: nathaniel.hoffman@gmail.com
