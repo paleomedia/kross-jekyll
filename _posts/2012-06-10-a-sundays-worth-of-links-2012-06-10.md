@@ -1,0 +1,144 @@
+---
+id: 1431
+title: 'A Sunday&#8217;s worth of links: 2012-06-10'
+date: 2012-06-10T17:00:00-07:00
+author: Nathaniel Hoffman
+layout: post
+guid: http://www.paleomedia.org/2012/06/10/a-sundays-worth-of-links-2012-06-10/
+permalink: /2012/06/10/a-sundays-worth-of-links-2012-06-10/
+aktt_tweeted:
+  - "1"
+aktt_notify_twitter:
+  - 'no'
+dsq_thread_id:
+  - "721326481"
+categories:
+  - Asides
+tags:
+  - Links
+  - Twitter
+---
+Archived Twitter links for June 3-10 via @paleomedia.<!--more-->
+
+<ul class="aktt_tweet_digest">
+  <li>
+    Is painting considered a life skill? <a href="http://twitter.com/paleomedia/statuses/209381795467235328" class="aktt_tweet_time">#</a>
+  </li>
+  <li>
+    At least I'm not the first person to Google "Are Holland and The Netherlands the same thing?" #<a href="http://search.twitter.com/search?q=%23thankwikipedia" class="aktt_hashtag">thankwikipedia</a> #instantsearch <a href="http://twitter.com/paleomedia/statuses/209384485752545280" class="aktt_tweet_time">#</a>
+  </li>
+  <li>
+    OK, I "believe" in #<a href="http://search.twitter.com/search?q=%23gaydar" class="aktt_hashtag">gaydar</a> but this study is way too eugenic <a href="http://t.co/4XPlxd7Q" rel="nofollow">http://t.co/4XPlxd7Q</a> <a href="http://twitter.com/paleomedia/statuses/209386504072609792" class="aktt_tweet_time">#</a>
+  </li>
+  <li>
+    One small step for Obama: #<a href="http://search.twitter.com/search?q=%23adminrelief" class="aktt_hashtag">adminrelief</a> RT @<a href="http://twitter.com/mhildreth" class="aktt_username">mhildreth</a>: New York Times (Editorial): A Start on the Dream <a href="http://t.co/R3ZCo2r5" rel="nofollow">http://t.co/R3ZCo2r5</a> <a href="http://twitter.com/paleomedia/statuses/209642416381243392" class="aktt_tweet_time">#</a>
+  </li>
+  <li>
+    It's tempting some days to view success in word count. <a href="http://twitter.com/paleomedia/statuses/209687064696995841" class="aktt_tweet_time">#</a>
+  </li>
+  <li>
+    less and less interested in #<a href="http://search.twitter.com/search?q=%23hyphens" class="aktt_hashtag">hyphens</a> <a href="http://twitter.com/paleomedia/statuses/209688329678102528" class="aktt_tweet_time">#</a>
+  </li>
+  <li>
+    Here is one (older) answer on punctuation and italics: <a href="http://t.co/VWF146Rc" rel="nofollow">http://t.co/VWF146Rc</a> Thanks for nothing, Twitter followers. <a href="http://twitter.com/paleomedia/statuses/209692118858477568" class="aktt_tweet_time">#</a>
+  </li>
+  <li>
+    Article about healthy teen dating program in #<a href="http://search.twitter.com/search?q=%23Boise" class="aktt_hashtag">Boise</a> via @<a href="http://twitter.com/nytimes" class="aktt_username">nytimes</a>: <a href="http://t.co/iEZyQq0k" rel="nofollow">http://t.co/iEZyQq0k</a> and blog post: <a href="http://t.co/4JNZi3xn" rel="nofollow">http://t.co/4JNZi3xn</a> <a href="http://twitter.com/paleomedia/statuses/209694564376788992" class="aktt_tweet_time">#</a>
+  </li>
+  <li>
+    In meeting with lovely @<a href="http://twitter.com/taranwolfson" class="aktt_username">taranwolfson</a> and nobody knows we hitched. #<a href="http://search.twitter.com/search?q=%23awkward" class="aktt_hashtag">awkward</a> <a href="http://twitter.com/paleomedia/statuses/209725929520496640" class="aktt_tweet_time">#</a>
+  </li>
+  <li>
+    More of this kind of journalism please! RT @<a href="http://twitter.com/StateImpactID" class="aktt_username">StateImpactID</a>: Why Being Called A ‘Boomtown’ Isn’t Good For Boise <a href="http://t.co/Wl05WpVh" rel="nofollow">http://t.co/Wl05WpVh</a> <a href="http://twitter.com/paleomedia/statuses/209755743275069441" class="aktt_tweet_time">#</a>
+  </li>
+  <li>
+    The @<a href="http://twitter.com/radioboise" class="aktt_username">radioboise</a> #<a href="http://search.twitter.com/search?q=%23NewsExperience" class="aktt_hashtag">NewsExperience</a> II is coming up this Saturday: <a href="https://t.co/seiH01dU" rel="nofollow">https://t.co/seiH01dU</a> #<a href="http://search.twitter.com/search?q=%23citizenjournalism" class="aktt_hashtag">citizenjournalism</a> <a href="http://twitter.com/paleomedia/statuses/210074448492101632" class="aktt_tweet_time">#</a>
+  </li>
+  <li>
+    Just got a special delivery from the former Rita's Bakery in Nampa #<a href="http://search.twitter.com/search?q=%23coldtacosbetterthannotacos" class="aktt_hashtag">coldtacosbetterthannotacos</a> <a href="http://twitter.com/paleomedia/statuses/210115995149414400" class="aktt_tweet_time">#</a>
+  </li>
+  <li>
+    18 minute Alice's Restaurant family sing-along night with @<a href="http://twitter.com/Petrapeapod" class="aktt_username">Petrapeapod</a> et al <a href="http://twitter.com/paleomedia/statuses/210189710784598016" class="aktt_tweet_time">#</a>
+  </li>
+  <li>
+    homebrew clubby RT @<a href="http://twitter.com/farmer_marty" class="aktt_username">farmer_marty</a>: Maybe I'll start drinking beer again. <a href="http://t.co/h7NcClsO" rel="nofollow">http://t.co/h7NcClsO</a> <a href="http://twitter.com/paleomedia/statuses/210192538404007936" class="aktt_tweet_time">#</a>
+  </li>
+  <li>
+    The focus of my morning is #<a href="http://search.twitter.com/search?q=%23NewsLiteracy" class="aktt_hashtag">NewsLiteracy</a> <a href="http://twitter.com/paleomedia/statuses/210370343976706049" class="aktt_tweet_time">#</a>
+  </li>
+  <li>
+    Calling all #<a href="http://search.twitter.com/search?q=%23Boise" class="aktt_hashtag">Boise</a> #citizenjournalists: @<a href="http://twitter.com/radioboise" class="aktt_username">radioboise</a> News Experience II this Saturday AM. RSVP with pitch at <a href="http://t.co/EIzGu8fB" rel="nofollow">http://t.co/EIzGu8fB</a> <a href="http://twitter.com/paleomedia/statuses/210409215779553281" class="aktt_tweet_time">#</a>
+  </li>
+  <li>
+    Thanks for the #<a href="http://search.twitter.com/search?q=%23NewsExperience" class="aktt_hashtag">NewsExperience</a> retweets @<a href="http://twitter.com/IdahoReports" class="aktt_username">IdahoReports</a> @SEOinBOI @<a href="http://twitter.com/mdsimmonds" class="aktt_username">mdsimmonds</a> @arecity <a href="http://twitter.com/paleomedia/statuses/210410513761443840" class="aktt_tweet_time">#</a>
+  </li>
+  <li>
+    RT @<a href="http://twitter.com/BookLamp" class="aktt_username">BookLamp</a>: All words are made up words. <a href="http://twitter.com/paleomedia/statuses/210477760882282498" class="aktt_tweet_time">#</a>
+  </li>
+  <li>
+    I love @<a href="http://twitter.com/McKayWei" class="aktt_username">McKayWei</a>! Fix the stupid quote tweet option in the mac twitter client: <a href="http://t.co/MRYnK9vV" rel="nofollow">http://t.co/MRYnK9vV</a> #<a href="http://search.twitter.com/search?q=%23ReclaimRT" class="aktt_hashtag">ReclaimRT</a> <a href="http://twitter.com/paleomedia/statuses/210479461664165888" class="aktt_tweet_time">#</a>
+  </li>
+  <li>
+    Open in my browser right now: MMP (Mex. Migration Project), MPP (@marijuanapolicy), and MPI (@MigrationPolicy) #<a href="http://search.twitter.com/search?q=%23analyzethat" class="aktt_hashtag">analyzethat</a> <a href="http://twitter.com/paleomedia/statuses/210779050212470786" class="aktt_tweet_time">#</a>
+  </li>
+  <li>
+    Sussing out the appropriateness of the 3 Stooges for @<a href="http://twitter.com/Petrapeapod" class="aktt_username">Petrapeapod</a> via @<a href="http://twitter.com/imdb" class="aktt_username">imdb</a> "We see a brief close-up shot of a lion's testicles and anus." <a href="http://twitter.com/paleomedia/statuses/210803620013293569" class="aktt_tweet_time">#</a>
+  </li>
+  <li>
+    nyah, nyah, nyah <a href="http://twitter.com/paleomedia/statuses/210803748468035584" class="aktt_tweet_time">#</a>
+  </li>
+  <li>
+    I just corrected an eminent demographer's Excel spreadsheet formula. #<a href="http://search.twitter.com/search?q=%23datajournalism" class="aktt_hashtag">datajournalism</a> #FTW <a href="http://twitter.com/paleomedia/statuses/210844683667116033" class="aktt_tweet_time">#</a>
+  </li>
+  <li>
+    America gwan be all right. <a href="http://t.co/0K0VRP8r" rel="nofollow">http://t.co/0K0VRP8r</a> <a href="http://twitter.com/paleomedia/statuses/210939348051431425" class="aktt_tweet_time">#</a>
+  </li>
+  <li>
+    Mas calle, menos Face <a href="http://twitter.com/paleomedia/statuses/211083099226902528" class="aktt_tweet_time">#</a>
+  </li>
+  <li>
+    "Wars, revolutions, civil uprisings are interfaces within the new environments created by electric informational media." &#8211;McLuhan <a href="http://twitter.com/paleomedia/statuses/211146002390990850" class="aktt_tweet_time">#</a>
+  </li>
+  <li>
+    The #<a href="http://search.twitter.com/search?q=%23NewsExperience" class="aktt_hashtag">NewsExperience</a> II with @<a href="http://twitter.com/radioboise" class="aktt_username">radioboise</a> is mañana folks: <a href="http://t.co/49RWvzoq" rel="nofollow">http://t.co/49RWvzoq</a> #<a href="http://search.twitter.com/search?q=%23citizenjournalism" class="aktt_hashtag">citizenjournalism</a> #radio #<a href="http://search.twitter.com/search?q=%23Boise" class="aktt_hashtag">Boise</a> Get trained up &#8230; <a href="http://twitter.com/paleomedia/statuses/211146705624764416" class="aktt_tweet_time">#</a>
+  </li>
+  <li>
+    all kindsa NYT love this week MT @<a href="http://twitter.com/carr2n" class="aktt_username">carr2n</a>: Me and this chick from Boise spend a little quality time in&#8230; Times Sq. <a href="http://t.co/fBHCbWrH" rel="nofollow">http://t.co/fBHCbWrH</a> <a href="http://twitter.com/paleomedia/statuses/211177163184017408" class="aktt_tweet_time">#</a>
+  </li>
+  <li>
+    Nooooooo! RT @<a href="http://twitter.com/Harvard" class="aktt_username">Harvard</a>: A brief history of Car Talk: “They’ve changed the way people see public radio in America” <a href="http://t.co/2PHz9pdy" rel="nofollow">http://t.co/2PHz9pdy</a> <a href="http://twitter.com/paleomedia/statuses/211177570811658240" class="aktt_tweet_time">#</a>
+  </li>
+  <li>
+    '58 more like it RT @<a href="http://twitter.com/elisefoley" class="aktt_username">elisefoley</a>: Romney Great for '68, the poster: <a href="http://t.co/p3CXSUna" rel="nofollow">http://t.co/p3CXSUna</a> <a href="http://twitter.com/paleomedia/statuses/211178381658689536" class="aktt_tweet_time">#</a>
+  </li>
+  <li>
+    wink and nod? RT @<a href="http://twitter.com/DionNissenbaum" class="aktt_username">DionNissenbaum</a>: CIA gets nod to step up drone strikes in Pakistan <a href="http://t.co/u7l4mWpz" rel="nofollow">http://t.co/u7l4mWpz</a> <a href="http://twitter.com/paleomedia/statuses/211178485908127746" class="aktt_tweet_time">#</a>
+  </li>
+  <li>
+    gentrification MT @<a href="http://twitter.com/BetsyZRussell" class="aktt_username">BetsyZRussell</a>: Judge: #<a href="http://search.twitter.com/search?q=%23OccupyBoise" class="aktt_hashtag">OccupyBoise</a> must temporarily vacate site for lawn maintenance <a href="http://t.co/CwuPopMa" rel="nofollow">http://t.co/CwuPopMa</a> <a href="http://twitter.com/paleomedia/statuses/211233670948859905" class="aktt_tweet_time">#</a>
+  </li>
+  <li>
+    MT @<a href="http://twitter.com/TreyMcInProject" class="aktt_username">TreyMcInProject</a>: We're soooo close to 2,000 followers. #<a href="http://search.twitter.com/search?q=%23FF" class="aktt_hashtag">FF</a> before 7/8 for a chance to win a super-soft TMP T-shirt! <a href="http://twitter.com/paleomedia/statuses/211233866931904513" class="aktt_tweet_time">#</a>
+  </li>
+  <li>
+    Weekend full of Idaho media making with #<a href="http://search.twitter.com/search?q=%23i48" class="aktt_hashtag">i48</a> and #<a href="http://search.twitter.com/search?q=%23NewsExperience" class="aktt_hashtag">NewsExperience</a> <a href="http://twitter.com/paleomedia/statuses/211267602381676544" class="aktt_tweet_time">#</a>
+  </li>
+  <li>
+    I'm playing this @<a href="http://twitter.com/tanehisi" class="aktt_username">tanehisi</a> clip on activist journalism again at #<a href="http://search.twitter.com/search?q=%23NewsExperience" class="aktt_hashtag">NewsExperience</a> II tomorrow on the #<a href="http://search.twitter.com/search?q=%23BoiseBench" class="aktt_hashtag">BoiseBench</a> <a href="http://t.co/E734kxwd" rel="nofollow">http://t.co/E734kxwd</a> <a href="http://twitter.com/paleomedia/statuses/211293641648521216" class="aktt_tweet_time">#</a>
+  </li>
+  <li>
+    Does a #<a href="http://search.twitter.com/search?q=%23hashtag" class="aktt_hashtag">hashtag</a> exist in the sphere if only one person taps it? <a href="http://twitter.com/paleomedia/statuses/211294128120672256" class="aktt_tweet_time">#</a>
+  </li>
+  <li>
+    US as (black) light unto the nations #<a href="http://search.twitter.com/search?q=%23Immigration" class="aktt_hashtag">Immigration</a> #<a href="http://search.twitter.com/search?q=%23UK" class="aktt_hashtag">UK</a> <a href="http://t.co/CTN9AAyL" rel="nofollow">http://t.co/CTN9AAyL</a> <a href="http://twitter.com/paleomedia/statuses/211427293392928768" class="aktt_tweet_time">#</a>
+  </li>
+  <li>
+    It's a nasty day in Boise, perfect for gaining a little @<a href="http://twitter.com/radioboise" class="aktt_username">radioboise</a> #<a href="http://search.twitter.com/search?q=%23NewsExperience" class="aktt_hashtag">NewsExperience</a> Deets: <a href="http://t.co/4GOx2M4b" rel="nofollow">http://t.co/4GOx2M4b</a> T-2hrs <a href="http://twitter.com/paleomedia/statuses/211443766802907137" class="aktt_tweet_time">#</a>
+  </li>
+  <li>
+    . @<a href="http://twitter.com/radioboise" class="aktt_username">radioboise</a> folks: try this link instead <a href="http://t.co/49RWvzoq" rel="nofollow">http://t.co/49RWvzoq</a> #<a href="http://search.twitter.com/search?q=%23socasesensitive" class="aktt_hashtag">socasesensitive</a> <a href="http://twitter.com/paleomedia/statuses/211446249868632064" class="aktt_tweet_time">#</a>
+  </li>
+  <li>
+    Link to @<a href="http://twitter.com/radioboise" class="aktt_username">radioboise</a> #<a href="http://search.twitter.com/search?q=%23NewsExperience" class="aktt_hashtag">NewsExperience</a> II Presentation: <a href="http://t.co/ocfFFaOw" rel="nofollow">http://t.co/ocfFFaOw</a> #<a href="http://search.twitter.com/search?q=%23noprojector" class="aktt_hashtag">noprojector</a> <a href="http://twitter.com/paleomedia/statuses/211474894507081729" class="aktt_tweet_time">#</a>
+  </li>
+</ul>

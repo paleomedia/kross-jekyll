@@ -1,0 +1,155 @@
+---
+id: 1194
+title: 'A Sunday&#8217;s worth of links: 2011-12-25'
+date: 2011-12-25T17:00:00-07:00
+author: Nathaniel Hoffman
+layout: post
+guid: http://www.paleomedia.org/2011/12/25/a-sundays-worth-of-links-2011-12-25-2/
+permalink: /2011/12/25/a-sundays-worth-of-links-2011-12-25-2/
+aktt_tweeted:
+  - "1"
+aktt_notify_twitter:
+  - 'no'
+dsq_thread_id:
+  - "516367797"
+categories:
+  - Twitter
+tags:
+  - Links
+---
+Archived Twitter links for December 18-25 via @paleomedia.<!--more-->
+
+<ul class="aktt_tweet_digest">
+  <li>
+    If i can manage 2000 brilliant or 3000 decent words a day for the next week, everything is gonna be alright. <a href="http://twitter.com/paleomedia/statuses/148643771578466305" class="aktt_tweet_time">#</a>
+  </li>
+  <li>
+    Duh RT “@immprof: Telling Immigration Stories: It's Not Just about Code Sections <a href="http://t.co/faMS6ajp" rel="nofollow">http://t.co/faMS6ajp</a> <a href="http://twitter.com/paleomedia/statuses/148762344137293824" class="aktt_tweet_time">#</a>
+  </li>
+  <li>
+    I tend to agree with the longview of @<a href="http://twitter.com/Colorlines" class="aktt_username">Colorlines</a>' Sen: <a href="http://t.co/fYee0wog" rel="nofollow">http://t.co/fYee0wog</a> but McAdam @<a href="http://twitter.com/BostonReview" class="aktt_username">BostonReview</a> has good pts 2 <a href="http://t.co/g6jOf1VQ" rel="nofollow">http://t.co/g6jOf1VQ</a> <a href="http://twitter.com/paleomedia/statuses/148805381328601088" class="aktt_tweet_time">#</a>
+  </li>
+  <li>
+    "American history should not be read as the inevitable, progressive realization of&#8230;" vs. "&#8230;bending in the direction of justice." <a href="http://twitter.com/paleomedia/statuses/148805758232956929" class="aktt_tweet_time">#</a>
+  </li>
+  <li>
+    Levi-Strauss: myth can only be translated by another myth, not scientific formula. #<a href="http://search.twitter.com/search?q=%23needsomenewmyths" class="aktt_hashtag">needsomenewmyths</a> <a href="http://twitter.com/paleomedia/statuses/148828672554582017" class="aktt_tweet_time">#</a>
+  </li>
+  <li>
+    dammit RT Attack of the killer neti pots Via @<a href="http://twitter.com/nprnews" class="aktt_username">nprnews</a>: Second Neti-Pot Death From Amoeba Prompts Tap-Water Warning <a href="http://t.co/N7VWYbbz" rel="nofollow">http://t.co/N7VWYbbz</a> <a href="http://twitter.com/paleomedia/statuses/148839877079875584" class="aktt_tweet_time">#</a>
+  </li>
+  <li>
+    feat. SOS Clinton @<a href="http://twitter.com/out4immigration" class="aktt_username">out4immigration</a>: Bring Exiled Couples Home for the Holidays! <a href="http://t.co/3nzzxRXP" rel="nofollow">http://t.co/3nzzxRXP</a> <a href="http://twitter.com/paleomedia/statuses/148898169030320129" class="aktt_tweet_time">#</a>
+  </li>
+  <li>
+    Amazing collection of "North American Slave Narratives" at UNC Chapel Hill <a href="http://t.co/MK0MvTPv" rel="nofollow">http://t.co/MK0MvTPv</a> <a href="http://twitter.com/paleomedia/statuses/148913923834384384" class="aktt_tweet_time">#</a>
+  </li>
+  <li>
+    If a life spans a century, is one left to the former or latter one, i.e., will my wikipedia say I'm I a 20th or 21st Century hack? <a href="http://twitter.com/paleomedia/statuses/148918112098598912" class="aktt_tweet_time">#</a>
+  </li>
+  <li>
+    Running the undocumented/illegal ethico-grammar test on the terms "slave" and "enslaved" right now. #<a href="http://search.twitter.com/search?q=%23firstworldwriterproblems" class="aktt_hashtag">firstworldwriterproblems</a> <a href="http://twitter.com/paleomedia/statuses/148964753178509312" class="aktt_tweet_time">#</a>
+  </li>
+  <li>
+    Does the Mormon prohibition on coffee also include chocolate covered espresso beans? #<a href="http://search.twitter.com/search?q=%23thisisaseriousquestion" class="aktt_hashtag">thisisaseriousquestion</a> <a href="http://twitter.com/paleomedia/statuses/148980028720418816" class="aktt_tweet_time">#</a>
+  </li>
+  <li>
+    Man. I didn't know vinegar was verboten. #<a href="http://search.twitter.com/search?q=%23glutenfreeproblems" class="aktt_hashtag">glutenfreeproblems</a> #theregothepickles <a href="http://twitter.com/paleomedia/statuses/148982668535676930" class="aktt_tweet_time">#</a>
+  </li>
+  <li>
+    Thanks, @<a href="http://twitter.com/JodyMayChang" class="aktt_username">JodyMayChang</a> ! <a href="http://twitter.com/JodyMayChang/statuses/148977773594148865" class="aktt_tweet_reply">in reply to JodyMayChang</a> <a href="http://twitter.com/paleomedia/statuses/148982833849966592" class="aktt_tweet_time">#</a>
+  </li>
+  <li>
+    Yesh RT @<a href="http://twitter.com/wayneandwax" class="aktt_username">wayneandwax</a>: the always-quality @<a href="http://twitter.com/masalacism" class="aktt_username">masalacism</a> records offers up "the first Balani compilation ever" <a href="http://t.co/m0mRj7zT" rel="nofollow">http://t.co/m0mRj7zT</a> <a href="http://twitter.com/paleomedia/statuses/149144858257399809" class="aktt_tweet_time">#</a>
+  </li>
+  <li>
+    Serious investigative journalism, Idaho style, via @<a href="http://twitter.com/BetsyZRussell" class="aktt_username">BetsyZRussell</a> <a href="http://t.co/bhKYEQ8j" rel="nofollow">http://t.co/bhKYEQ8j</a> #<a href="http://search.twitter.com/search?q=%23powpow" class="aktt_hashtag">powpow</a> <a href="http://twitter.com/paleomedia/statuses/149174462875570177" class="aktt_tweet_time">#</a>
+  </li>
+  <li>
+    Not voting "&#8230;make the Amer. people ask how much longer this dumb farce can proceed without even a whimper of protest" <a href="http://t.co/COxZkZPP" rel="nofollow">http://t.co/COxZkZPP</a> <a href="http://twitter.com/paleomedia/statuses/149220700585082880" class="aktt_tweet_time">#</a>
+  </li>
+  <li>
+    I do love librarians. <a href="http://twitter.com/paleomedia/statuses/149225530611343360" class="aktt_tweet_time">#</a>
+  </li>
+  <li>
+    What's up, @<a href="http://twitter.com/ErikGillberg" class="aktt_username">ErikGillberg</a>? You miss Idaho Chanukahs? You just came across my social empire today for some reason! <a href="http://twitter.com/paleomedia/statuses/149344550715006977" class="aktt_tweet_time">#</a>
+  </li>
+  <li>
+    been there. shoulda stayed. RT @<a href="http://twitter.com/LatinoVoices" class="aktt_username">LatinoVoices</a>: Get a look inside #<a href="http://search.twitter.com/search?q=%23Hemingway" class="aktt_hashtag">Hemingway</a> #039;s home in #<a href="http://search.twitter.com/search?q=%23Cuba" class="aktt_hashtag">Cuba</a> <a href="http://t.co/8HSk1GJ5" rel="nofollow">http://t.co/8HSk1GJ5</a> <a href="http://twitter.com/paleomedia/statuses/149345671294619650" class="aktt_tweet_time">#</a>
+  </li>
+  <li>
+    #<a href="http://search.twitter.com/search?q=%23walkinthewalk" class="aktt_hashtag">walkinthewalk</a> MT @<a href="http://twitter.com/CADWalk2012" class="aktt_username">CADWalk2012</a>: Find out what brought @<a href="http://twitter.com/lucura" class="aktt_username">lucura</a>, one of the #<a href="http://search.twitter.com/search?q=%23cadwalk2012" class="aktt_hashtag">cadwalk2012</a> to activism <a href="http://t.co/qgOCM6n4" rel="nofollow">http://t.co/qgOCM6n4</a> <a href="http://twitter.com/paleomedia/statuses/149347455111139328" class="aktt_tweet_time">#</a>
+  </li>
+  <li>
+    He and Bush shd listen to more @<a href="http://twitter.com/nprnews" class="aktt_username">nprnews</a> RT @<a href="http://twitter.com/TimMerrick" class="aktt_username">TimMerrick</a>: Seems @<a href="http://twitter.com/GovernorPerry" class="aktt_username">GovernorPerry</a> thought Kim Jong-il was Kim Jong II. <a href="http://t.co/RFd3eDB0" rel="nofollow">http://t.co/RFd3eDB0</a> <a href="http://twitter.com/paleomedia/statuses/149348868826464256" class="aktt_tweet_time">#</a>
+  </li>
+  <li>
+    Or chg they mind. RT @<a href="http://twitter.com/AQueerDesi" class="aktt_username">AQueerDesi</a>: Elope. RT @<a href="http://twitter.com/AngySays" class="aktt_username">AngySays</a>: loving her beyond papers #<a href="http://search.twitter.com/search?q=%23undocumented" class="aktt_hashtag">undocumented</a> #love <a href="http://t.co/PuzVxBDl" rel="nofollow">http://t.co/PuzVxBDl</a> via @<a href="http://twitter.com/nysylc" class="aktt_username">nysylc</a> <a href="http://twitter.com/paleomedia/statuses/149510921583202304" class="aktt_tweet_time">#</a>
+  </li>
+  <li>
+    Why everybody sending me multimedia texts now? Paleomedia don't multimedia text. <a href="http://twitter.com/paleomedia/statuses/149530696736718849" class="aktt_tweet_time">#</a>
+  </li>
+  <li>
+    Man I need my headphones this morning. <a href="http://twitter.com/paleomedia/statuses/149551539244105730" class="aktt_tweet_time">#</a>
+  </li>
+  <li>
+    Awesome to see what @<a href="http://twitter.com/AaronStanton" class="aktt_username">AaronStanton</a> and @<a href="http://twitter.com/booklamp" class="aktt_username">booklamp</a> are up to. Thanks for the tour today and I can't wait to get up in your databases! <a href="http://twitter.com/paleomedia/statuses/149622803166019585" class="aktt_tweet_time">#</a>
+  </li>
+  <li>
+    What would and @<a href="http://twitter.com/ElBloombito" class="aktt_username">ElBloombito</a> / @<a href="http://twitter.com/_DosEquisMan_" class="aktt_username">_DosEquisMan_</a> mashup look like? <a href="http://twitter.com/paleomedia/statuses/149624299920171008" class="aktt_tweet_time">#</a>
+  </li>
+  <li>
+    The second night of Chanukah is the one where you dip your middle finger in hot oil and then get your hand stuck in a mason jar, right? <a href="http://twitter.com/paleomedia/statuses/149659325265231873" class="aktt_tweet_time">#</a>
+  </li>
+  <li>
+    The great story behind Dropbox | <a href="http://t.co/arlmdD5A" rel="nofollow">http://t.co/arlmdD5A</a> <a href="http://t.co/pnbv4Lur" rel="nofollow">http://t.co/pnbv4Lur</a> <&#8211; very useful program <a href="http://twitter.com/paleomedia/statuses/149894796822065153" class="aktt_tweet_time">#</a>
+  </li>
+  <li>
+    Finally watched Page One, the @<a href="http://twitter.com/nytimes" class="aktt_username">nytimes</a> doc, tonight. A newspaper is precisely the sum of its parts. I might even subscribe now &#8230; <a href="http://twitter.com/paleomedia/statuses/150112916866203648" class="aktt_tweet_time">#</a>
+  </li>
+  <li>
+    Just read @<a href="http://twitter.com/jacobinmag" class="aktt_username">jacobinmag</a>'s Andrew Hartman on Teach for America while charter kid jumped on my head; reax after coffee: <a href="http://t.co/LSEfVlI5" rel="nofollow">http://t.co/LSEfVlI5</a> <a href="http://twitter.com/paleomedia/statuses/150245047017816064" class="aktt_tweet_time">#</a>
+  </li>
+  <li>
+    #<a href="http://search.twitter.com/search?q=%23FF" class="aktt_hashtag">FF</a> @<a href="http://twitter.com/crewbank" class="aktt_username">crewbank</a> pa' practicar su español, @<a href="http://twitter.com/uscthanhtan" class="aktt_username">uscthanhtan</a> 4 journo transparency, @<a href="http://twitter.com/willcoley" class="aktt_username">willcoley</a> 4 rich media, and @<a href="http://twitter.com/fronterasdesk" class="aktt_username">fronterasdesk</a> 4 border trends <a href="http://twitter.com/paleomedia/statuses/150258704325935104" class="aktt_tweet_time">#</a>
+  </li>
+  <li>
+    In 2012, blogging and posting here will be my rewards for doing what Gary Snyder called The Real Work. #<a href="http://search.twitter.com/search?q=%23chopmorewood" class="aktt_hashtag">chopmorewood</a> <a href="http://twitter.com/paleomedia/statuses/150259041455706113" class="aktt_tweet_time">#</a>
+  </li>
+  <li>
+    And #<a href="http://search.twitter.com/search?q=%23ff" class="aktt_hashtag">ff</a> @<a href="http://twitter.com/JodyMayChang" class="aktt_username">JodyMayChang</a> for launching sean hannity's career, I think: <a href="http://t.co/qxPsWNNG" rel="nofollow">http://t.co/qxPsWNNG</a> (and lots of other great stuff) <a href="http://twitter.com/paleomedia/statuses/150259578393722881" class="aktt_tweet_time">#</a>
+  </li>
+  <li>
+    Why doesn't Twitter allow hyperlinks? It would eliminate all the layers of url shortening I think, and look nice. #<a href="http://search.twitter.com/search?q=%23showerbrainstorm" class="aktt_hashtag">showerbrainstorm</a> <a href="http://twitter.com/paleomedia/statuses/150260551950413824" class="aktt_tweet_time">#</a>
+  </li>
+  <li>
+    da bears | Border Fence Blocks Bears in Migration, Study Finds <a href="http://t.co/3LKXgGUh" rel="nofollow">http://t.co/3LKXgGUh</a> h/t @<a href="http://twitter.com/ImmigrationPost" class="aktt_username">ImmigrationPost</a> which has bad link <a href="http://twitter.com/paleomedia/statuses/150261184740855808" class="aktt_tweet_time">#</a>
+  </li>
+  <li>
+    Looking for some Afrocentric sources on slavery. How to refer to "slave owners," etc. in most accurate of terms. Who to read? <a href="http://twitter.com/paleomedia/statuses/150272253832073217" class="aktt_tweet_time">#</a>
+  </li>
+  <li>
+    reconquista! @<a href="http://twitter.com/thenorthend" class="aktt_username">thenorthend</a>: Funny! RT @<a href="http://twitter.com/m3mo" class="aktt_username">m3mo</a>: Lincoln's new hat #<a href="http://search.twitter.com/search?q=%23Boise" class="aktt_hashtag">Boise</a> <a href="http://t.co/tNS55aNh" rel="nofollow">http://t.co/tNS55aNh</a> <a href="http://twitter.com/paleomedia/statuses/150273915510468609" class="aktt_tweet_time">#</a>
+  </li>
+  <li>
+    cd be a little more hard hitting MT @<a href="http://twitter.com/acluidaho" class="aktt_username">acluidaho</a>: Whatever reason you celebrate the season, the promise of America is&#8230; <a href="http://t.co/S11Oj63T”" rel="nofollow">http://t.co/S11Oj63T”</a> <a href="http://twitter.com/paleomedia/statuses/150274569834475520" class="aktt_tweet_time">#</a>
+  </li>
+  <li>
+    "#RonPaul may not be a racist, but he became complicit in a strategy of pandering to racists." via Reason Magazine 2008 <a href="http://t.co/KVF58qtr" rel="nofollow">http://t.co/KVF58qtr</a> <a href="http://twitter.com/paleomedia/statuses/150327462646120448" class="aktt_tweet_time">#</a>
+  </li>
+  <li>
+    They don't know. <a href="http://twitter.com/paleomedia/statuses/150421901867618306" class="aktt_tweet_time">#</a>
+  </li>
+  <li>
+    Thanks for the hanukah shoutout on Global Grooves, @<a href="http://twitter.com/radioboise" class="aktt_username">radioboise</a>. <a href="http://twitter.com/paleomedia/statuses/150677385312870400" class="aktt_tweet_time">#</a>
+  </li>
+  <li>
+    Disco party in my house RT @<a href="http://twitter.com/bricoshoppe" class="aktt_username">bricoshoppe</a>: Disco party on @<a href="http://twitter.com/radioboise" class="aktt_username">radioboise</a> <a href="http://twitter.com/paleomedia/statuses/150731799755100161" class="aktt_tweet_time">#</a>
+  </li>
+  <li>
+    Essentializing and romanticizing myself by bringing latkes to the christmas eve potluck. <a href="http://twitter.com/paleomedia/statuses/150733351911825408" class="aktt_tweet_time">#</a>
+  </li>
+  <li>
+    Got slipped a pre-release of Gavin Morrison's latest album for the second x-mas eve in a row. Manzanita Loungin'. Dude is prolific n smooth. <a href="http://twitter.com/paleomedia/statuses/150822034081976320" class="aktt_tweet_time">#</a>
+  </li>
+</ul>

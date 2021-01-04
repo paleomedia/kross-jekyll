@@ -1,0 +1,114 @@
+---
+id: 1391
+title: 'A Sunday&#8217;s worth of links: 2012-03-11'
+date: 2012-03-11T17:00:00-07:00
+author: Nathaniel Hoffman
+layout: post
+guid: http://www.paleomedia.org/2012/03/11/a-sundays-worth-of-links-2012-03-11/
+permalink: /2012/03/11/a-sundays-worth-of-links-2012-03-11/
+aktt_tweeted:
+  - "1"
+aktt_notify_twitter:
+  - 'no'
+dsq_thread_id:
+  - "607559567"
+categories:
+  - Asides
+tags:
+  - Links
+  - Twitter
+---
+Archived Twitter links for Mar 5-Mar 11 via @paleomedia.<!--more-->
+
+<ul class="aktt_tweet_digest">
+  <li>
+    Short, but good attention from @<a href="http://twitter.com/nytimes" class="aktt_username">nytimes</a> on @<a href="http://twitter.com/nicolelefavour" class="aktt_username">nicolelefavour</a> and @<a href="http://twitter.com/AddTheWords" class="aktt_username">AddTheWords</a> <a href="http://t.co/aIVVvD3o" rel="nofollow">http://t.co/aIVVvD3o</a> via @<a href="http://twitter.com/tyler_NILC" class="aktt_username">tyler_NILC</a> <a href="http://twitter.com/paleomedia/statuses/176523229702262784" class="aktt_tweet_time">#</a>
+  </li>
+  <li>
+    Watching: Birth name Jonathan Stuart Leibowitz in TJ wig. @<a href="http://twitter.com/jonstewart" class="aktt_username">jonstewart</a> <a href="http://twitter.com/paleomedia/statuses/176535743617974272" class="aktt_tweet_time">#</a>
+  </li>
+  <li>
+    Coming up this Friday PM in Boise: I will read some bits from Amor & Exile, some of the mostly finished bits! <a href="http://t.co/R6razRY7" rel="nofollow">http://t.co/R6razRY7</a> <a href="http://twitter.com/paleomedia/statuses/176704078901018625" class="aktt_tweet_time">#</a>
+  </li>
+  <li>
+    Still a good Q RT @<a href="http://twitter.com/jason_p_deleon" class="aktt_username">jason_p_deleon</a>: How Many People Have Really Been Deported Under Obama? <a href="http://t.co/4ICF7BJ0" rel="nofollow">http://t.co/4ICF7BJ0</a> via @<a href="http://twitter.com/HuffingtonPost" class="aktt_username">HuffingtonPost</a> <a href="http://twitter.com/paleomedia/statuses/176716368006217729" class="aktt_tweet_time">#</a>
+  </li>
+  <li>
+    Bummed I didn't get the @<a href="http://twitter.com/KnightStanford" class="aktt_username">KnightStanford</a> fellowship. So who wants to fund a digital age, nonfiction book publisher with heart of a newspaper? <a href="http://twitter.com/paleomedia/statuses/176818113403301889" class="aktt_tweet_time">#</a>
+  </li>
+  <li>
+    Better Q: how to tweet a cite? RT @<a href="http://twitter.com/timreganporter" class="aktt_username">timreganporter</a>: How Do You Cite a Tweet in an Academic Paper? &#8211; The Atlantic <a href="http://t.co/cEHX9nfZ" rel="nofollow">http://t.co/cEHX9nfZ</a> <a href="http://twitter.com/paleomedia/statuses/177043783282733056" class="aktt_tweet_time">#</a>
+  </li>
+  <li>
+    The 2012 Idaho candidate map is getting good use. <a href="http://t.co/7Cywxg06" rel="nofollow">http://t.co/7Cywxg06</a>. You can help take it to the next level here: <a href="http://t.co/49S139xA" rel="nofollow">http://t.co/49S139xA</a> <a href="http://twitter.com/paleomedia/statuses/177055517041115138" class="aktt_tweet_time">#</a>
+  </li>
+  <li>
+    RT @<a href="http://twitter.com/PresenteOrg" class="aktt_username">PresenteOrg</a>: Immigrant Love Story: Separated Couple Awaits Immigration Law Change <a href="http://t.co/1wk8uuKA" rel="nofollow">http://t.co/1wk8uuKA</a> via @<a href="http://twitter.com/HuffingtonPost" class="aktt_username">HuffingtonPost</a> <a href="http://twitter.com/paleomedia/statuses/177138786210291713" class="aktt_tweet_time">#</a>
+  </li>
+  <li>
+    Updates to the Idaho candidate map app show *new* filings and contested races!! Check it: <a href="http://t.co/7Cywxg06" rel="nofollow">http://t.co/7Cywxg06</a> kudos to #<a href="http://search.twitter.com/search?q=%23BrettNelson" class="aktt_hashtag">BrettNelson</a> <a href="http://twitter.com/paleomedia/statuses/177407221947310080" class="aktt_tweet_time">#</a>
+  </li>
+  <li>
+    Montessori Montezuma Mashup <a href="http://twitter.com/paleomedia/statuses/177423522434519040" class="aktt_tweet_time">#</a>
+  </li>
+  <li>
+    New candidate filings up on the map: @<a href="http://twitter.com/hollihigh" class="aktt_username">hollihigh</a> Dallas Gudgell in 19, J Hart in 15, Andy Edstrom in 19, C. Brunt in 33. Meckel in 3 &#8230; <a href="http://twitter.com/paleomedia/statuses/177517726523334658" class="aktt_tweet_time">#</a>
+  </li>
+  <li>
+    The map: <a href="http://t.co/gawcbPp7" rel="nofollow">http://t.co/gawcbPp7</a> &#8230; also, Bouma in 5, Ward in 8, Duncan in 18 and Barlow in 28 #<a href="http://search.twitter.com/search?q=%23idleg" class="aktt_hashtag">idleg</a> new candidate filings <a href="http://twitter.com/paleomedia/statuses/177517943494680577" class="aktt_tweet_time">#</a>
+  </li>
+  <li>
+    .@dancow Check out our candidate filing map inspired by several of your scraping/ruby tutorials: <a href="http://t.co/gawcbPp7" rel="nofollow">http://t.co/gawcbPp7</a> Thanks! <a href="http://twitter.com/paleomedia/statuses/177539793192890369" class="aktt_tweet_time">#</a>
+  </li>
+  <li>
+    No such thing? Rt @<a href="http://twitter.com/BetsyZRussell" class="aktt_username">BetsyZRussell</a>: Eye on Boise: AP: State fights release of prison report, cites 'unjustified scandal' <a href="http://t.co/WKXHbIpB" rel="nofollow">http://t.co/WKXHbIpB</a> <a href="http://twitter.com/paleomedia/statuses/177547686348730368" class="aktt_tweet_time">#</a>
+  </li>
+  <li>
+    New Idaho Congressional District Google Map: <a href="http://t.co/IKOrBqJx" rel="nofollow">http://t.co/IKOrBqJx</a> #<a href="http://search.twitter.com/search?q=%23redistricting" class="aktt_hashtag">redistricting</a> <a href="http://twitter.com/paleomedia/statuses/177782302527598592" class="aktt_tweet_time">#</a>
+  </li>
+  <li>
+    Nubile News Gatherers Unite! Radio Boise takes the power back | Arbiter Online <a href="http://t.co/PeveHMeE" rel="nofollow">http://t.co/PeveHMeE</a> #<a href="http://search.twitter.com/search?q=%23reporterswiththesauri" class="aktt_hashtag">reporterswiththesauri</a> #newsexperience <a href="http://twitter.com/paleomedia/statuses/177855210159476736" class="aktt_tweet_time">#</a>
+  </li>
+  <li>
+    #<a href="http://search.twitter.com/search?q=%23Hashtag" class="aktt_hashtag">Hashtag</a> for Saturday's News Experience is &#8230; #<a href="http://search.twitter.com/search?q=%23NewsExperience" class="aktt_hashtag">NewsExperience</a> Info: <a href="http://t.co/49S139xA" rel="nofollow">http://t.co/49S139xA</a> <a href="http://twitter.com/paleomedia/statuses/177855998466334720" class="aktt_tweet_time">#</a>
+  </li>
+  <li>
+    Why don't journalism award websites actually link to the stories on which they bestow awards? <a href="http://twitter.com/paleomedia/statuses/177974896809345024" class="aktt_tweet_time">#</a>
+  </li>
+  <li>
+    I am looking for examples of great community radio stories for our #<a href="http://search.twitter.com/search?q=%23NewsExperience" class="aktt_hashtag">NewsExperience</a> training on Sat. Please send links! <a href="http://twitter.com/paleomedia/statuses/177975151072247808" class="aktt_tweet_time">#</a>
+  </li>
+  <li>
+    We had overlooked Libertarian candidate Christopher Joseph Brunt in 33 &#8230; now green dot on the map: <a href="http://t.co/gawcbPp7" rel="nofollow">http://t.co/gawcbPp7</a> <a href="http://twitter.com/paleomedia/statuses/178144604535787520" class="aktt_tweet_time">#</a>
+  </li>
+  <li>
+    I'm glad I got a big disk. <a href="http://twitter.com/paleomedia/statuses/178184394564055040" class="aktt_tweet_time">#</a>
+  </li>
+  <li>
+    Is anyone else's @<a href="http://twitter.com/cableone" class="aktt_username">cableone</a> rate getting jacked? What else can a guy do for internet round here? #<a href="http://search.twitter.com/search?q=%23nohomephone" class="aktt_hashtag">nohomephone</a> <a href="http://twitter.com/paleomedia/statuses/178184762559696897" class="aktt_tweet_time">#</a>
+  </li>
+  <li>
+    Gripping photo too RT @<a href="http://twitter.com/uscthanhtan" class="aktt_username">uscthanhtan</a>: My TT story in today's @<a href="http://twitter.com/nytimes" class="aktt_username">nytimes</a>. "TX Limits Squeeze Elderly Poor & Their #<a href="http://search.twitter.com/search?q=%23Doctors" class="aktt_hashtag">Doctors</a> quot; <a href="http://t.co/AVJfjEes" rel="nofollow">http://t.co/AVJfjEes</a> <a href="http://twitter.com/paleomedia/statuses/178187175375028225" class="aktt_tweet_time">#</a>
+  </li>
+  <li>
+    "You can't eat dog without beer." | Boise Weekly <a href="http://t.co/XhCni8VD" rel="nofollow">http://t.co/XhCni8VD</a> <a href="http://twitter.com/paleomedia/statuses/178215426310930432" class="aktt_tweet_time">#</a>
+  </li>
+  <li>
+    244 candidates on the elex map now &#8230; lots of new dots and new colors. <a href="http://t.co/7Cywxg06" rel="nofollow">http://t.co/7Cywxg06</a> <a href="http://twitter.com/paleomedia/statuses/178226501563584512" class="aktt_tweet_time">#</a>
+  </li>
+  <li>
+    Getting an impressive amount of blog traffic from a LinkedIn post. <a href="http://twitter.com/paleomedia/statuses/178228083285954560" class="aktt_tweet_time">#</a>
+  </li>
+  <li>
+    #<a href="http://search.twitter.com/search?q=%23NewsExperience" class="aktt_hashtag">NewsExperience</a> in t-2 hours. <a href="http://twitter.com/paleomedia/statuses/178482831809462273" class="aktt_tweet_time">#</a>
+  </li>
+  <li>
+    Awesome pitches coming in at the @<a href="http://twitter.com/radioboise" class="aktt_username">radioboise</a> #<a href="http://search.twitter.com/search?q=%23NewsExperience" class="aktt_hashtag">NewsExperience</a> #tuneinturnon <a href="http://twitter.com/paleomedia/statuses/178526471273455616" class="aktt_tweet_time">#</a>
+  </li>
+  <li>
+    Can't decide which network to use to ping @<a href="http://twitter.com/dougmetzgar" class="aktt_username">dougmetzgar</a> and Suzanne for a great #<a href="http://search.twitter.com/search?q=%23glutenfree" class="aktt_hashtag">glutenfree</a> time tonight! #<a href="http://search.twitter.com/search?q=%23redbridgetonowhere" class="aktt_hashtag">redbridgetonowhere</a> <a href="http://twitter.com/paleomedia/statuses/178711033907658752" class="aktt_tweet_time">#</a>
+  </li>
+  <li>
+    Pickup.5 manure run imminent. #<a href="http://search.twitter.com/search?q=%23fertilizeit" class="aktt_hashtag">fertilizeit</a> <a href="http://twitter.com/paleomedia/statuses/178866726937702400" class="aktt_tweet_time">#</a>
+  </li>
+</ul>

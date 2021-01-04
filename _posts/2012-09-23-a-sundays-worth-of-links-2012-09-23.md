@@ -1,0 +1,52 @@
+---
+id: 1471
+title: 'A Sunday&#8217;s worth of links: 2012-09-23'
+date: 2012-09-23T17:00:00-07:00
+author: Nathaniel Hoffman
+layout: post
+guid: http://www.paleomedia.org/2012/09/23/a-sundays-worth-of-links-2012-09-23/
+permalink: /2012/09/23/a-sundays-worth-of-links-2012-09-23/
+aktt_tweeted:
+  - "1"
+aktt_notify_twitter:
+  - 'no'
+dsq_thread_id:
+  - "856495643"
+categories:
+  - Asides
+tags:
+  - Links
+  - Twitter
+---
+<ul class="aktt_tweet_digest">
+  <li>
+    I have recorded two songs in my life; one of them is to be played on each Jewish New Year. And it was. <a href="http://twitter.com/paleomedia/statuses/247541031636201472" class="aktt_tweet_time">#</a>
+  </li>
+  <li>
+    Some of my @<a href="http://twitter.com/theIRC" class="aktt_username">theIRC</a> citizenship students featured in @<a href="http://twitter.com/idahostatesman" class="aktt_username">idahostatesman</a> photo spread: <a href="http://t.co/xluIAVk8" rel="nofollow">http://t.co/xluIAVk8</a> <a href="http://twitter.com/paleomedia/statuses/247853021147561984" class="aktt_tweet_time">#</a>
+  </li>
+  <li>
+    And related article by @<a href="http://twitter.com/IDS_Politics" class="aktt_username">IDS_Politics</a> on citizenship ceremony: <a href="http://t.co/v1Eo4LFJ" rel="nofollow">http://t.co/v1Eo4LFJ</a> <a href="http://twitter.com/paleomedia/statuses/247855686812307456" class="aktt_tweet_time">#</a>
+  </li>
+  <li>
+    Definitely a reporter RT @<a href="http://twitter.com/elisefoley" class="aktt_username">elisefoley</a>: RT @<a href="http://twitter.com/jbendery" class="aktt_username">jbendery</a>: no words RT @<a href="http://twitter.com/ByronTau" class="aktt_username">ByronTau</a>: Photo of some dude peeing behing Obama. <a href="http://t.co/rwOhE088" rel="nofollow">http://t.co/rwOhE088</a> <a href="http://twitter.com/paleomedia/statuses/247918910987444224" class="aktt_tweet_time">#</a>
+  </li>
+  <li>
+    Lakum dinakum wa liya din #<a href="http://search.twitter.com/search?q=%23MuslimRage" class="aktt_hashtag">MuslimRage</a> <a href="http://twitter.com/paleomedia/statuses/248037455670935552" class="aktt_tweet_time">#</a>
+  </li>
+  <li>
+    Buy your own damn fries @<a href="http://twitter.com/dlgold" class="aktt_username">dlgold</a>: Obama is 'tired of your shit' &#8211; hilarious find @<a href="http://twitter.com/Greg_Hudson" class="aktt_username">Greg_Hudson</a> <a href="http://t.co/KzoubZ27" rel="nofollow">http://t.co/KzoubZ27</a> <a href="http://twitter.com/paleomedia/statuses/248055845655543809" class="aktt_tweet_time">#</a>
+  </li>
+  <li>
+    RT @<a href="http://twitter.com/IdahoCAN" class="aktt_username">IdahoCAN</a>: It looks like the ICAN radio will be on the air next week!!! #<a href="http://search.twitter.com/search?q=%23communityradio" class="aktt_hashtag">communityradio</a> <a href="http://twitter.com/paleomedia/statuses/248192804642230273" class="aktt_tweet_time">#</a>
+  </li>
+  <li>
+    Kid at library: what, are you printing a book? Me: yeah. <a href="http://twitter.com/paleomedia/statuses/248815590263902209" class="aktt_tweet_time">#</a>
+  </li>
+  <li>
+    Had to google "predicate" to get through @<a href="http://twitter.com/petrapeapod" class="aktt_username">petrapeapod</a>'s homework&#8230; Back to school <a href="http://twitter.com/paleomedia/statuses/248978537414000640" class="aktt_tweet_time">#</a>
+  </li>
+  <li>
+    I'd like to participate in the American ritual of "tailgating" someday. <a href="http://twitter.com/paleomedia/statuses/248979181839470592" class="aktt_tweet_time">#</a>
+  </li>
+</ul>

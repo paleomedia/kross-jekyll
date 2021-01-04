@@ -1,0 +1,75 @@
+---
+id: 1408
+title: 'A Sunday&#8217;s worth of links: 2012-04-15'
+date: 2012-04-15T17:00:00-07:00
+author: Nathaniel Hoffman
+layout: post
+guid: http://www.paleomedia.org/2012/04/15/a-sundays-worth-of-links-2012-04-15/
+permalink: /2012/04/15/a-sundays-worth-of-links-2012-04-15/
+aktt_tweeted:
+  - "1"
+aktt_notify_twitter:
+  - 'no'
+dsq_thread_id:
+  - "651453287"
+categories:
+  - Asides
+tags:
+  - Links
+  - Twitter
+---
+Archived Twitter links for Apr 8 &#8211; 15 via @paleomedia.<!--more-->
+
+<ul class="aktt_tweet_digest">
+  <li>
+    Miss @<a href="http://twitter.com/missangelboise" class="aktt_username">missangelboise</a> gives me all kinds of ideas every Sunday morning via the @<a href="http://twitter.com/radioboise" class="aktt_username">radioboise</a> gospel waves. #<a href="http://search.twitter.com/search?q=%23gospelseder" class="aktt_hashtag">gospelseder</a> #nextyearinboise <a href="http://twitter.com/paleomedia/statuses/189050441227714560" class="aktt_tweet_time">#</a>
+  </li>
+  <li>
+    Not THE button, though? “@mathewi: "Publishing isn't a job now. It's a button." ~ @<a href="http://twitter.com/cshirky" class="aktt_username">cshirky</a> <a href="http://t.co/BSHzUK1a”" rel="nofollow">http://t.co/BSHzUK1a”</a> <a href="http://twitter.com/paleomedia/statuses/189050898914357248" class="aktt_tweet_time">#</a>
+  </li>
+  <li>
+    Nothing new here RT @<a href="http://twitter.com/jeffjarvis" class="aktt_username">jeffjarvis</a>: New use for old newspaper pressrooms: bars. All the easier to drown sorrows: <a href="http://t.co/EBeiM7Qe" rel="nofollow">http://t.co/EBeiM7Qe</a> <a href="http://twitter.com/paleomedia/statuses/189057234716729345" class="aktt_tweet_time">#</a>
+  </li>
+  <li>
+    landlockedtongues RT @<a href="http://twitter.com/NWFoodNews" class="aktt_username">NWFoodNews</a>: I'd love to hear what you think of my take on the Idaho restaurant scene. <a href="http://t.co/j2tSRUMi" rel="nofollow">http://t.co/j2tSRUMi</a> <a href="http://twitter.com/paleomedia/statuses/189354306531635200" class="aktt_tweet_time">#</a>
+  </li>
+  <li>
+    #<a href="http://search.twitter.com/search?q=%23Idaho" class="aktt_hashtag">Idaho</a> RT @<a href="http://twitter.com/CynthiaSewell" class="aktt_username">CynthiaSewell</a>: When racism rears its ugly head, Cherie Buckner-Webb takes the high road. <a href="http://t.co/zAXVJa89" rel="nofollow">http://t.co/zAXVJa89</a> <a href="http://twitter.com/paleomedia/statuses/189719265631416320" class="aktt_tweet_time">#</a>
+  </li>
+  <li>
+    The KKK has a direct mail department in Idaho. #<a href="http://search.twitter.com/search?q=%23returntosender" class="aktt_hashtag">returntosender</a> <a href="http://twitter.com/paleomedia/statuses/189719602039750656" class="aktt_tweet_time">#</a>
+  </li>
+  <li>
+    Maybe @<a href="http://twitter.com/radioboise" class="aktt_username">radioboise</a> will have an entry? 2nd International Citizen Media Award 2012 « European Youth4Media Network e.V. <a href="http://t.co/uxZGcwkS" rel="nofollow">http://t.co/uxZGcwkS</a> <a href="http://twitter.com/paleomedia/statuses/189767036841373696" class="aktt_tweet_time">#</a>
+  </li>
+  <li>
+    One of my other Twitter personi: RT @<a href="http://twitter.com/PowerCordz" class="aktt_username">PowerCordz</a>: Tricked out, beat making, Japanese BMX bike via @<a href="http://twitter.com/bikehugger" class="aktt_username">bikehugger</a>: <a href="http://t.co/elgbRWIh" rel="nofollow">http://t.co/elgbRWIh</a> <a href="http://twitter.com/paleomedia/statuses/190450784960389120" class="aktt_tweet_time">#</a>
+  </li>
+  <li>
+    Also: <a href="http://t.co/cWq99I9T" rel="nofollow">http://t.co/cWq99I9T</a> and <a href="http://t.co/EgEpmH7K" rel="nofollow">http://t.co/EgEpmH7K</a> RT @<a href="http://twitter.com/jaziiari" class="aktt_username">jaziiari</a>: Advice on learning a second language Resources <a href="http://t.co/kpHQFRvM" rel="nofollow">http://t.co/kpHQFRvM</a> <a href="http://twitter.com/paleomedia/statuses/190452961216962561" class="aktt_tweet_time">#</a>
+  </li>
+  <li>
+    #<a href="http://search.twitter.com/search?q=%23FF" class="aktt_hashtag">FF</a> @<a href="http://twitter.com/PowerCordz" class="aktt_username">PowerCordz</a> Boise startup focused on futuristic bicycle components. I am their Twizard of Oz. <a href="http://twitter.com/paleomedia/statuses/190793187193925632" class="aktt_tweet_time">#</a>
+  </li>
+  <li>
+    #<a href="http://search.twitter.com/search?q=%23FF" class="aktt_hashtag">FF</a> other projects on which I'm working: @<a href="http://twitter.com/theIRC" class="aktt_username">theIRC</a> @radioboise @<a href="http://twitter.com/amorandexile" class="aktt_username">amorandexile</a> @liliorg <a href="http://twitter.com/paleomedia/statuses/190802316696367106" class="aktt_tweet_time">#</a>
+  </li>
+  <li>
+    Recall when we used to recite movies line by line, plot point by plot point, for hours on end to our parents? That was annoying as shit. <a href="http://twitter.com/paleomedia/statuses/190811790412742656" class="aktt_tweet_time">#</a>
+  </li>
+  <li>
+    Led by Guatemala, Latin America moves to legalize | Alma Guillermoprieto The New York Review of Books <a href="http://t.co/T9uBxC0B" rel="nofollow">http://t.co/T9uBxC0B</a> <a href="http://twitter.com/paleomedia/statuses/190842654861430784" class="aktt_tweet_time">#</a>
+  </li>
+  <li>
+    Off to a literal barn raising. <a href="http://twitter.com/paleomedia/statuses/191195533971439617" class="aktt_tweet_time">#</a>
+  </li>
+  <li>
+    Bueno Street Farm is rockin the @<a href="http://twitter.com/DallasGudgell" class="aktt_username">DallasGudgell</a> Turtle Island yard sign now. <a href="http://twitter.com/paleomedia/statuses/191356523371442176" class="aktt_tweet_time">#</a>
+  </li>
+  <li>
+    I have never had a political sign in my yard before because I'm usually covering elections in some way. #<a href="http://search.twitter.com/search?q=%23yardsignvirgin" class="aktt_hashtag">yardsignvirgin</a> <a href="http://twitter.com/paleomedia/statuses/191357841901232128" class="aktt_tweet_time">#</a>
+  </li>
+  <li>
+    What's a good movie to watch tonight? <a href="http://twitter.com/paleomedia/statuses/191358838316875776" class="aktt_tweet_time">#</a>
+  </li>
+</ul>

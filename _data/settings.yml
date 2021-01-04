@@ -41,11 +41,10 @@ hero:
   hero-title: Be the media you want to see in the world.
 
 social:
-- {icon: "ti-facebook", link: "https://facebook.com/nathanieljudd"}
+- {icon: "ti-twitter", link: "#twitter.com/paleomedia"}
 - {icon: "ti-instagram", link: "https://instagram.com/postpaleomedia"}
 - {icon: "ti-linkedin", link: "https://linkedin.com/hoffmannathaniel"}
-- {icon: "ti-twitter", link: "#twitter.com/paleomedia"}
-
+- {icon: "ti-facebook", link: "https://facebook.com/nathanieljudd"}
 
 #-------------------------------
 # About (Section and Page)

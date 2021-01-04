@@ -1,0 +1,111 @@
+---
+id: 1324
+title: 'A Sunday&#8217;s worth of links: 2012-03-04'
+date: 2012-03-04T17:00:00-07:00
+author: Nathaniel Hoffman
+layout: post
+guid: http://www.paleomedia.org/2012/03/04/a-sundays-worth-of-links-2012-03-04/
+permalink: /2012/03/04/a-sundays-worth-of-links-2012-03-04/
+aktt_tweeted:
+  - "1"
+aktt_notify_twitter:
+  - 'no'
+dsq_thread_id:
+  - "598916549"
+categories:
+  - Asides
+tags:
+  - Links
+  - Twitter
+---
+Archived Twitter links for Feb 27-Mar 4 via @paleomedia.<!--more-->
+
+<ul class="aktt_tweet_digest">
+  <li>
+    RT @<a href="http://twitter.com/aaronkunz" class="aktt_username">aaronkunz</a>: NPR's new ethics handbook: <a href="http://t.co/PqmJkImA" rel="nofollow">http://t.co/PqmJkImA</a> <a href="http://twitter.com/paleomedia/statuses/174167291091615744" class="aktt_tweet_time">#</a>
+  </li>
+  <li>
+    I've been reading NPR's new ethics pages as I work on Journalism Guide for @<a href="http://twitter.com/radioboise" class="aktt_username">radioboise</a>. Thanks! <a href="http://t.co/PqmJkImA" rel="nofollow">http://t.co/PqmJkImA</a> See #<a href="http://search.twitter.com/search?q=%23NewsExperience" class="aktt_hashtag">NewsExperience</a> <a href="http://twitter.com/paleomedia/statuses/174168392020922369" class="aktt_tweet_time">#</a>
+  </li>
+  <li>
+    The @<a href="http://twitter.com/radioboise" class="aktt_username">radioboise</a> #<a href="http://search.twitter.com/search?q=%23NewsExperience" class="aktt_hashtag">NewsExperience</a> <a href="http://t.co/rH52udly" rel="nofollow">http://t.co/rH52udly</a> <&#8211; Community Journalism for Boise and Beyond <a href="http://twitter.com/paleomedia/statuses/174168934109560832" class="aktt_tweet_time">#</a>
+  </li>
+  <li>
+    hot damn RT @<a href="http://twitter.com/BetsyZRussell" class="aktt_username">BetsyZRussell</a>: Eye on Boise: State removal of #<a href="http://search.twitter.com/search?q=%23OccupyBoise" class="aktt_hashtag">OccupyBoise</a> tents 'invalid under the 1st Amendment' <a href="http://t.co/70Z8HwyW" rel="nofollow">http://t.co/70Z8HwyW</a> #<a href="http://search.twitter.com/search?q=%23idleg" class="aktt_hashtag">idleg</a> <a href="http://twitter.com/paleomedia/statuses/174185359138230272" class="aktt_tweet_time">#</a>
+  </li>
+  <li>
+    The #<a href="http://search.twitter.com/search?q=%23occupyboise" class="aktt_hashtag">occupyboise</a> court decision from my tumblr, via @<a href="http://twitter.com/BetsyZRussell" class="aktt_username">BetsyZRussell</a> <a href="http://t.co/D5CbVMwt" rel="nofollow">http://t.co/D5CbVMwt</a> #<a href="http://search.twitter.com/search?q=%23firstamendment" class="aktt_hashtag">firstamendment</a> <a href="http://twitter.com/paleomedia/statuses/174187983254204416" class="aktt_tweet_time">#</a>
+  </li>
+  <li>
+    blame psychosocial distress of serving there? RT @<a href="http://twitter.com/stapilus" class="aktt_username">stapilus</a>: Largest voluntary turnover in Idaho legislative history? <a href="http://t.co/oedm4CcM" rel="nofollow">http://t.co/oedm4CcM</a> <a href="http://twitter.com/paleomedia/statuses/174192360102694913" class="aktt_tweet_time">#</a>
+  </li>
+  <li>
+    Asking real questions RT @<a href="http://twitter.com/IdahoAgenda" class="aktt_username">IdahoAgenda</a>: National Journal Raises Questions Regarding Romney’s Ties to Vandersloot <a href="http://t.co/Ij05fv0w" rel="nofollow">http://t.co/Ij05fv0w</a> <a href="http://twitter.com/paleomedia/statuses/174354368244629504" class="aktt_tweet_time">#</a>
+  </li>
+  <li>
+    Only thing I ever get picked for is jury duty. <a href="http://twitter.com/paleomedia/statuses/174359381431951360" class="aktt_tweet_time">#</a>
+  </li>
+  <li>
+    Why do some people, like, @<a href="http://twitter.com/tarawolfson" class="aktt_username">tarawolfson</a>, eschew mouse pads so? <a href="http://twitter.com/paleomedia/statuses/174363157781946370" class="aktt_tweet_time">#</a>
+  </li>
+  <li>
+    Sad to see Boise landlords walling off their potties from the public. #<a href="http://search.twitter.com/search?q=%23everybodypoops" class="aktt_hashtag">everybodypoops</a> cc @<a href="http://twitter.com/8thstreettweet" class="aktt_username">8thstreettweet</a> <a href="http://t.co/GqieR98L" rel="nofollow">http://t.co/GqieR98L</a> <a href="http://twitter.com/paleomedia/statuses/174547806244179968" class="aktt_tweet_time">#</a>
+  </li>
+  <li>
+    “Invisible Children” Screening @<a href="http://twitter.com/boisestatelive" class="aktt_username">boisestatelive</a> tonight <a href="http://t.co/9OShchu1" rel="nofollow">http://t.co/9OShchu1</a> #<a href="http://search.twitter.com/search?q=%23childsoldiers" class="aktt_hashtag">childsoldiers</a> <a href="http://twitter.com/paleomedia/statuses/174553894033162240" class="aktt_tweet_time">#</a>
+  </li>
+  <li>
+    RT @<a href="http://twitter.com/jeffjarvis" class="aktt_username">jeffjarvis</a>: I've just published my Kindle Single: Gutenberg the Geek. Only a buck&#8230;<a href="http://t.co/73HsCpC6" rel="nofollow">http://t.co/73HsCpC6</a> <a href="http://twitter.com/paleomedia/statuses/174565027616010240" class="aktt_tweet_time">#</a>
+  </li>
+  <li>
+    Mabruk! RT @<a href="http://twitter.com/historianess" class="aktt_username">historianess</a>: Just got word that my book is officially in production. <a href="http://twitter.com/paleomedia/statuses/174589828321652737" class="aktt_tweet_time">#</a>
+  </li>
+  <li>
+    And now I don't even get picked for jury duty. cc @<a href="http://twitter.com/BrookeSeidl" class="aktt_username">BrookeSeidl</a> #<a href="http://search.twitter.com/search?q=%23stillagoodcitizen" class="aktt_hashtag">stillagoodcitizen</a> <a href="http://twitter.com/paleomedia/statuses/174904706991263744" class="aktt_tweet_time">#</a>
+  </li>
+  <li>
+    Considering rt @<a href="http://twitter.com/lifehacker" class="aktt_username">lifehacker</a>: Delete your Google search history b4 midnight, when Goog's new privacy policy takes effect <a href="http://t.co/7zU95UnO”" rel="nofollow">http://t.co/7zU95UnO”</a> <a href="http://twitter.com/paleomedia/statuses/175076522003144704" class="aktt_tweet_time">#</a>
+  </li>
+  <li>
+    Thought "terror" was RT @<a href="http://twitter.com/newmaya" class="aktt_username">newmaya</a>: "Narco-trafficking is the new communism." Thanks to anthropologist Tim Smith for that one. <a href="http://twitter.com/paleomedia/statuses/175076895858233346" class="aktt_tweet_time">#</a>
+  </li>
+  <li>
+    Idaho politico-journalistos: a robot candidate filing map mash up is coming to get you today. Stay tuned! <a href="http://twitter.com/paleomedia/statuses/175242378221858816" class="aktt_tweet_time">#</a>
+  </li>
+  <li>
+    Cue the lorax apologia. <a href="http://twitter.com/paleomedia/statuses/175351315956903936" class="aktt_tweet_time">#</a>
+  </li>
+  <li>
+    Hearing a great promo for the @<a href="http://twitter.com/radioboise" class="aktt_username">radioboise</a> #<a href="http://search.twitter.com/search?q=%23NewsExperience" class="aktt_hashtag">NewsExperience</a> on 89.9FM right now. Info: <a href="http://t.co/49S139xA" rel="nofollow">http://t.co/49S139xA</a> #<a href="http://search.twitter.com/search?q=%23RSVP" class="aktt_hashtag">RSVP</a> <a href="http://twitter.com/paleomedia/statuses/175621225060630529" class="aktt_tweet_time">#</a>
+  </li>
+  <li>
+    Yesterday I promised a robot. Robot is not ready. <a href="http://twitter.com/paleomedia/statuses/175622258331623426" class="aktt_tweet_time">#</a>
+  </li>
+  <li>
+    The @<a href="http://twitter.com/Guardian" class="aktt_username">Guardian</a> on Open Journalism, pigs, wolves, us: <a href="http://t.co/7SbXg8OR" rel="nofollow">http://t.co/7SbXg8OR</a> <a href="http://twitter.com/paleomedia/statuses/175627882268344321" class="aktt_tweet_time">#</a>
+  </li>
+  <li>
+    Robot is reporting 4 contested Idaho Senate GOP seats in Dists. 2, 8, 23, 27. Robot works. Map coming soon. #<a href="http://search.twitter.com/search?q=%23idleg" class="aktt_hashtag">idleg</a> #robots <a href="http://twitter.com/paleomedia/statuses/175631708878675968" class="aktt_tweet_time">#</a>
+  </li>
+  <li>
+    Who has the best Twitter List of Idaho lawmakers going? #<a href="http://search.twitter.com/search?q=%23idleg" class="aktt_hashtag">idleg</a> <a href="http://twitter.com/paleomedia/statuses/175632759035920385" class="aktt_tweet_time">#</a>
+  </li>
+  <li>
+    Thanks! “@StateImpactID: @<a href="http://twitter.com/paleomedia" class="aktt_username">paleomedia</a> We do! <a href="https://t.co/I5TjARlu" rel="nofollow">https://t.co/I5TjARlu</a> #<a href="http://search.twitter.com/search?q=%23idleg" class="aktt_hashtag">idleg</a> ?? <a href="http://twitter.com/paleomedia/statuses/175633478644281344" class="aktt_tweet_time">#</a>
+  </li>
+  <li>
+    Thanks, too! RT @<a href="http://twitter.com/melissadavlin" class="aktt_username">melissadavlin</a>: @<a href="http://twitter.com/IdahoReports" class="aktt_username">IdahoReports</a> Thanks! #<a href="http://search.twitter.com/search?q=%23coolstuff" class="aktt_hashtag">coolstuff</a> <a href="http://twitter.com/paleomedia/statuses/175642256081039361" class="aktt_tweet_time">#</a>
+  </li>
+  <li>
+    The 2012 Idaho Election Map is live: <a href="http://t.co/gawcbPp7" rel="nofollow">http://t.co/gawcbPp7</a> See who is running and where, as they file. #<a href="http://search.twitter.com/search?q=%23idleg" class="aktt_hashtag">idleg</a> <a href="http://twitter.com/paleomedia/statuses/175679352527273984" class="aktt_tweet_time">#</a>
+  </li>
+  <li>
+    Election Map inspired by tweets from @<a href="http://twitter.com/KevinRichert" class="aktt_username">KevinRichert</a> @Capitol_insider @<a href="http://twitter.com/BetsyZRussell" class="aktt_username">BetsyZRussell</a> @Boiseweekly @<a href="http://twitter.com/IdahoReports" class="aktt_username">IdahoReports</a> @BradIvL <a href="http://t.co/F066Ab4l" rel="nofollow">http://t.co/F066Ab4l</a> <a href="http://twitter.com/paleomedia/statuses/175679828664664064" class="aktt_tweet_time">#</a>
+  </li>
+  <li>
+    And thanks to @<a href="http://twitter.com/StateImpactID" class="aktt_username">StateImpactID</a> too for inspiring the candidate map! #<a href="http://search.twitter.com/search?q=%23datanerdsunite" class="aktt_hashtag">datanerdsunite</a> (2.0 will include twitter info for candidates!) <a href="http://twitter.com/StateImpactID/statuses/175633308024184832" class="aktt_tweet_reply">in reply to StateImpactID</a> <a href="http://twitter.com/paleomedia/statuses/175694677335490561" class="aktt_tweet_time">#</a>
+  </li>
+  <li>
+    And the map is back up, and refreshed: <a href="http://t.co/gawcbPp7" rel="nofollow">http://t.co/gawcbPp7</a> <a href="http://twitter.com/paleomedia/statuses/175717375625277441" class="aktt_tweet_time">#</a>
+  </li>
+</ul>

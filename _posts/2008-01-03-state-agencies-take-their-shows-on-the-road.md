@@ -1,0 +1,31 @@
+---
+id: 69
+title: State Agencies Take their Shows on the Road
+date: 2008-01-03T15:52:09-07:00
+author: Nathaniel Hoffman
+layout: post
+guid: http://www.paleomedia.org/2008/01/03/state-agencies-take-their-shows-on-the-road/
+permalink: /2008/01/03/state-agencies-take-their-shows-on-the-road/
+featured_home_img:
+  - luna_mug.jpg
+dsq_thread_id:
+  - "113509333"
+categories:
+  - Features
+tags:
+  - idaho transportation department
+  - luna
+  - manning
+  - superintend of public instruction
+---
+The heads of Public Instruction and of the state Transportation Board have been taking their shows on the road in recent months and both power pointers got a chance to pitch the Idaho press corps on Thursday.
+
+The annual Associated Press Legislative Preview was a lively show, with Darrell Manning, chairman of the Transportation Board and Tom Luna, Superintendent of Public Instruction showing up with slick presentations detailing how much money they are saving and/or want to spend.
+
+“I don’t like new taxes, I know Gov. otter doesn’t like new taxes… but we need to make the decision whether or not we are going to keep up with the growth in Idaho,” Manning told the three dozen reporters assembled.<!--more-->
+
+Manning said that after the Idaho Transportation Department presented its 74-page <a href="http://itd.idaho.gov/info/efficiencyreport/Efficiency_Report.pdf" target="blank">Efficiency Report: 1994-2012</a> to Otter he told them to go out and tell it to the people. So Manning went to every Legislative district to explain how the department plans to save $51 million by reducing the size of shoulders, using less salt brine and making pavement thinner among other things.
+
+Luna has also been on the road pitching his iSTARS teacher compensation plan, which this morning <a href="http://www.boiseweekly.com/gyrobase/Content?oid=oid%3A310016" target="blank">he told a room full of reporters</a>, has been misrepresented in the press. The Idaho Education Association is citing a survey that 92% of its members like the union plan better, but the debate over tying teacher tenure to teacher pay is sure to be one of the best of the session.
+
+Other quick takes on the morning&#8217;s forums are at the [Boise Weekly](http://www.boiseweekly.com/gyrobase/Content?oid=oid%3A310009), [Eye on Boise](http://spokesmanreview.com/blogs/boise/) and Cynthia Sewell in the [Statesman](http://www.idahostatesman.com/localnews/story/254135.html).

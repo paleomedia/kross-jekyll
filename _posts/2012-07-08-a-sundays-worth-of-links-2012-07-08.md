@@ -1,0 +1,79 @@
+---
+id: 1455
+title: 'A Sunday&#8217;s worth of links: 2012-07-08'
+date: 2012-07-08T17:00:00-07:00
+author: Nathaniel Hoffman
+layout: post
+guid: http://www.paleomedia.org/2012/07/08/a-sundays-worth-of-links-2012-07-08/
+permalink: /2012/07/08/a-sundays-worth-of-links-2012-07-08/
+aktt_tweeted:
+  - "1"
+aktt_notify_twitter:
+  - 'no'
+dsq_thread_id:
+  - "756838966"
+categories:
+  - Asides
+tags:
+  - Links
+  - Twitter
+---
+<ul class="aktt_tweet_digest">
+  <li>
+    Awesome to follow Mexico elections w/: @<a href="http://twitter.com/damiencave" class="aktt_username">damiencave</a> @longdrivesouth @<a href="http://twitter.com/economicrefugee" class="aktt_username">economicrefugee</a> @agomezlicon and others&#8230; <a href="http://twitter.com/paleomedia/statuses/219640260274028546" class="aktt_tweet_time">#</a>
+  </li>
+  <li>
+    Signed up Rt @<a href="http://twitter.com/IJNet" class="aktt_username">IJNet</a>: Google offers free power search class [Worldwide] <a href="http://t.co/mmbs4TLO" rel="nofollow">http://t.co/mmbs4TLO</a> <a href="http://twitter.com/paleomedia/statuses/219780614876966912" class="aktt_tweet_time">#</a>
+  </li>
+  <li>
+    i'm surprised we still need to fact check this #<a href="http://search.twitter.com/search?q=%23immigration" class="aktt_hashtag">immigration</a> stuff: <a href="http://t.co/5xrjEJjX" rel="nofollow">http://t.co/5xrjEJjX</a> <a href="http://twitter.com/paleomedia/statuses/219812685431316480" class="aktt_tweet_time">#</a>
+  </li>
+  <li>
+    At least I'm not the only guy muttering *shit* not so under my breath while dropping @<a href="http://twitter.com/Petrapeapod" class="aktt_username">Petrapeapod</a> off late for another camp thing. <a href="http://twitter.com/paleomedia/statuses/219829263644377088" class="aktt_tweet_time">#</a>
+  </li>
+  <li>
+    the Founding Fathers' mandate to abolish scurvy, & etc. <a href="http://t.co/bXCQxc9x" rel="nofollow">http://t.co/bXCQxc9x</a> <a href="http://twitter.com/paleomedia/statuses/219886955222151169" class="aktt_tweet_time">#</a>
+  </li>
+  <li>
+    Lots of -*-(ideas)-*- in the first 22 pages of @<a href="http://twitter.com/newinquiry" class="aktt_username">newinquiry</a>'s drone deal: telemigrants, remote taxistas, Hollydrones via #<a href="http://search.twitter.com/search?q=%23alexrivera" class="aktt_hashtag">alexrivera</a> <a href="http://twitter.com/paleomedia/statuses/219889668324466688" class="aktt_tweet_time">#</a>
+  </li>
+  <li>
+    Missing out on the (deferred) action: <a href="http://t.co/zrcw3Krl" rel="nofollow">http://t.co/zrcw3Krl</a> <a href="http://twitter.com/paleomedia/statuses/219889924961353729" class="aktt_tweet_time">#</a>
+  </li>
+  <li>
+    Next up: ACLU #<a href="http://search.twitter.com/search?q=%23Drone" class="aktt_hashtag">Drone</a> MT @<a href="http://twitter.com/ACLU" class="aktt_username">ACLU</a>: @<a href="http://twitter.com/ACLUNJ" class="aktt_username">ACLUNJ</a> releases smartphone app that allows citizens to record #<a href="http://search.twitter.com/search?q=%23police" class="aktt_hashtag">police</a> encounters: <a href="http://t.co/bOPxYrfN”" rel="nofollow">http://t.co/bOPxYrfN”</a> <a href="http://twitter.com/paleomedia/statuses/220380116436520961" class="aktt_tweet_time">#</a>
+  </li>
+  <li>
+    This is as patriotic as it gets folks: just bought a freezer and a quarter pig on Independence Day. <a href="http://twitter.com/paleomedia/statuses/220645306172309505" class="aktt_tweet_time">#</a>
+  </li>
+  <li>
+    ACA rubber meets 1070 road RT @<a href="http://twitter.com/LatinoVoices" class="aktt_username">LatinoVoices</a>: Former Arizona governor detained at border checkpoint <a href="http://t.co/cmpkz0rf" rel="nofollow">http://t.co/cmpkz0rf</a> #<a href="http://search.twitter.com/search?q=%23GovCastro" class="aktt_hashtag">GovCastro</a> <a href="http://twitter.com/paleomedia/statuses/220957299412447233" class="aktt_tweet_time">#</a>
+  </li>
+  <li>
+    Writing advice from @<a href="http://twitter.com/petrapeapod" class="aktt_username">petrapeapod</a>: beginning, middle, end. 1/3 <a href="http://twitter.com/paleomedia/statuses/221039318058274816" class="aktt_tweet_time">#</a>
+  </li>
+  <li>
+    Writing advice from @<a href="http://twitter.com/petrapeapod" class="aktt_username">petrapeapod</a>: what is your main character like? 2/3 <a href="http://twitter.com/paleomedia/statuses/221039573952765953" class="aktt_tweet_time">#</a>
+  </li>
+  <li>
+    Writing advice from @<a href="http://twitter.com/petrapeapod" class="aktt_username">petrapeapod</a>: What if? 3/3 <a href="http://twitter.com/paleomedia/statuses/221039658405072897" class="aktt_tweet_time">#</a>
+  </li>
+  <li>
+    My 10 Steps to Maybe Getting Your Nonfiction Book Published (for journalists via @<a href="http://twitter.com/idahopress" class="aktt_username">idahopress</a>): <a href="http://t.co/8RYPANza" rel="nofollow">http://t.co/8RYPANza</a> <a href="http://twitter.com/paleomedia/statuses/221211135733542912" class="aktt_tweet_time">#</a>
+  </li>
+  <li>
+    #<a href="http://search.twitter.com/search?q=%23FF" class="aktt_hashtag">FF</a> our Facebook Page: <a href="http://t.co/Fa1toWhB" rel="nofollow">http://t.co/Fa1toWhB</a> <a href="http://twitter.com/paleomedia/statuses/221239686146953217" class="aktt_tweet_time">#</a>
+  </li>
+  <li>
+    RT @<a href="http://twitter.com/pwolgin" class="aktt_username">pwolgin</a>: How Obama's New #<a href="http://search.twitter.com/search?q=%23Immigration" class="aktt_hashtag">Immigration</a> Policy Might Leave Out Some #<a href="http://search.twitter.com/search?q=%23DREAM" class="aktt_hashtag">DREAM</a> Activists—And Why Some Of Them Don’t Care <a href="http://t.co/lqcOtyvb" rel="nofollow">http://t.co/lqcOtyvb</a> <a href="http://twitter.com/paleomedia/statuses/221250017019707392" class="aktt_tweet_time">#</a>
+  </li>
+  <li>
+    Best treatment of this topic I have seen. Hope @<a href="http://twitter.com/nytimes" class="aktt_username">nytimes</a> reads it: <a href="http://t.co/ClqZ0qfj" rel="nofollow">http://t.co/ClqZ0qfj</a> <a href="http://twitter.com/paleomedia/statuses/221280124790779904" class="aktt_tweet_time">#</a>
+  </li>
+  <li>
+    wow. Pakistan hosts the most refugees. RT @<a href="http://twitter.com/lillitnaib" class="aktt_username">lillitnaib</a>: Which countries take in most refugees? Not the West #<a href="http://search.twitter.com/search?q=%23asylum" class="aktt_hashtag">asylum</a> <a href="http://t.co/haJ8pndO" rel="nofollow">http://t.co/haJ8pndO</a> <a href="http://twitter.com/paleomedia/statuses/221306239097905153" class="aktt_tweet_time">#</a>
+  </li>
+  <li>
+    Dammit. Didn't get the Sun Valley media mogul evite again: <a href="http://t.co/u5vvzZhT" rel="nofollow">http://t.co/u5vvzZhT</a> <a href="http://twitter.com/paleomedia/statuses/221324118451175425" class="aktt_tweet_time">#</a>
+  </li>
+</ul>

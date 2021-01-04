@@ -1,0 +1,48 @@
+---
+id: 863
+title: 'Nato&#8217;s Michoacan diet'
+date: 2011-01-18T13:20:58-07:00
+author: Nathaniel Hoffman
+layout: post
+guid: http://www.paleomedia.org/2011/01/18/natos-michoacan-diet/
+permalink: /2011/01/18/natos-michoacan-diet/
+dsq_thread_id:
+  - "211758407"
+categories:
+  - Uncategorized
+tags:
+  - carnitas
+  - food
+  - mexico
+  - Michoacan
+  - tequila
+---
+<div id='gallery-2' class='gallery galleryid-863 gallery-columns-3 gallery-size-thumbnail'>
+  <figure class='gallery-item'> 
+  
+  <div class='gallery-icon landscape'>
+    <a href='http://www.paleomedia.org/wp-content/themes/tma/images/20110118-142858.jpg'><img width="150" height="150" src="http://www.paleomedia.org/wp-content/themes/tma/images/20110118-142858-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" /></a>
+  </div></figure><figure class='gallery-item'> 
+  
+  <div class='gallery-icon landscape'>
+    <a href='http://www.paleomedia.org/wp-content/themes/tma/images/20110118-142930.jpg'><img width="150" height="150" src="http://www.paleomedia.org/wp-content/themes/tma/images/20110118-142930-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" /></a>
+  </div></figure><figure class='gallery-item'> 
+  
+  <div class='gallery-icon landscape'>
+    <a href='http://www.paleomedia.org/wp-content/themes/tma/images/20110118-142958.jpg'><img width="150" height="150" src="http://www.paleomedia.org/wp-content/themes/tma/images/20110118-142958-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" /></a>
+  </div></figure>
+</div>
+
+When you get off the bus in Zacapu—or probably in any of the small towns of Michoacan—the first thing to do is look for a place to get some carnitas. From the Zacapu bus station, turn right and about a block down you will see the place, Carnitas Lira, I think it&#8217;s called, owned by the same family that does tacos in Santa Gertrudis, five minutes to the north. I&#8217;ll get to Santa in a minute, but let&#8217;s stick with the carnitas. The pork is roasted on a wood fire every morning and delivered to the taqueria in buckets in the trunk of a late-model sedan. It&#8217;s piled up under a broken/off heat lamp, one cut of meat or organ indistinguishable from the next until you order and they start carving it into your tacos on a log-sized cutting board. 
+
+Order masisa and you&#8217;ll just get chunks of super-tender white pork meat, the outside of each chunk neatly browned. Ask for sortida, or con todo, and they will throw in some rind or some organ meat or some hooves, maybe. Ask for verdura: onion and cilantro and salsa. They will warm the tortillas on a steel, gas heated comal and fill them with the carnitas and bring you a plate with lime and more salsa and pickled cucumbers and jalapeños. And then they will ask you how many you ate, do a calculation and you&#8217;ll hand them a few bucks worth of pesos and you will feel extremely satisfied for many hours.
+
+Later, back at the rancho, after watching an NFL game in a buddy&#8217;s half finished house and finishing off a bottle of Oso Negro vodka, you might wander over to Santa, down a side street lined with fancy houses built with dollars sent back from the States to find Tacos Loti. Loti has been selling these tacos from outside her gate for 20 years, they tell me. I went two nights in a row and had steak (asada) and tripe tacos, the last one on the house and almost a dare. The meat here is cooked on an inverted metal dome, the fat dripping off, a few juicy onions thrown on top for flavor. Loti will steer your gabacho ass away from the hot stuff, but you&#8217;ll take it anyway. You&#8217;ll take one for the team, to prove your gabacho ass can handle the heat. You might regret it later, but not while you bask in the glory of the late night taco, a warm little corn sandwich to get you through the silent, chilly Michoacan night.
+
+Then in the morning you will have your Nescafe and walk into Santa again for a bowl of soup. Loti and Lira don&#8217;t tend to use the heads, but Rogelio does. The whole head: tongue, ears, brains, teeth. It all goes into his famous consome, or caldo, a giant pot of bubbling broth. Again, you can custom order the types of flesh that will grace your soup or you can get a bit of it all—brains and all, which you may as well, because you are in Michoacan and there are cows and pigs everywhere and nothing should really go to waste. If you don&#8217;t want the soup, get a tostada con cabeza—a giant corn chip loaded with head meat. 
+
+These country meals always seem to last a meal and a half. You can work right through lunch, but about 3 pm you might hop on a bus back into Zacapu and hit up the Pescadito, right there on the edge of town. Order up a ceviche with pulpo (octopus) and camaron (shrimp) and avocado and chopped chiles and a Modelo or mineral water or jugo. The seafood—sure it&#8217;s far from the coast, but it&#8217;s very fresh tasting—is suspended in a cold broth of tomato juice and lime and peppers and some secret ingredient and the attention from the family proprieters is top notch. It&#8217;s a place to linger on a Sunday afternoon watching people heading off to the baile.
+
+There is one problem for me this time in Mexico. I can&#8217;t drink beer anymore due to a wheat allergy, and there really is nothing that goes with ceviche and late-night tacos like a Tecate. What I&#8217;d really like is some kind of carbonated tequila in a can with every meal, but I don&#8217;t even know if that&#8217;s chemically possible.
+
+I did taste one more delicacy on my way out of town, a corunda tamale made and sold by Purepechan women at the market in Zacapu. They are wrapped in green corn husks and kind of a random shape and I have no idea what was in them, but it was spicy and peppery and tasted super healthy. Would have gone great with tequila in a can.

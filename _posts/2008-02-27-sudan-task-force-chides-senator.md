@@ -1,0 +1,23 @@
+---
+id: 139
+title: Sudan task force chides senator
+date: 2008-02-27T12:35:16-07:00
+author: Nathaniel Hoffman
+excerpt: In a powerfully worded missive to the Legislature, Idaho Task Force for Divestment from Sudan coordinator John Sullivan takes Senate State Affairs Committee Chairman Curt McKenzie to task for bowing to GOP pressure. Read the letter here...
+layout: post
+guid: http://www.paleomedia.org/2008/02/27/sudan-task-force-chides-senator/
+permalink: /2008/02/27/sudan-task-force-chides-senator/
+dsq_thread_id:
+  - "113391355"
+categories:
+  - The Annex
+---
+In a powerfully worded missive to the Legislature, Idaho Task Force for Divestment from Sudan coordinator John Sullivan takes Senate State Affairs Committee Chairman Curt McKenzie to task for bowing to GOP pressure. According to Sullivan, Idaho GOP Chairman and retirement fund trustee Kirk Sullivan (apparently of no relation) sat in the front row and stared down members of the committee during last week&#8217;s debate. McKenzie, who originally co-sponsored the divestment bill, broke a tie vote and killed the measure in his committee. Read Sullivan, John&#8217;s letter here:
+
+> As you are probably aware last Wednesday the Sudan Divestment Bill was killed in the Senate State Affairs Committee. It was an extremely sad day for Idaho, and for the Idaho Legislature. Despite the undisputed fact that PERSI&#8217;s investments in Chinese and other foreign companies contribute in bankrolling the genocidal regime of Sudan, despite PERSI&#8217;s protracted and obstinate refusal to divest from those companies, and despite the legislative call from President Bush and a unanimous Congress for all states to join the worldwide divestment movement, the Committee, ostensibly, felt it too risky to entrust the Idaho legislature to exercise prudent discretion over future, hypothetical bills (a daily discretionary responsibility), and voted against a sunsetting amendment to PERSI&#8217;s enabling legislation.
+> 
+> With Chairman Curt McKenzie (who was an original co-sponsor of the legislation) casting the deciding vote against the bill, Senate Bill # 1367 failed (5-4). However, what also failed last Wednesday morning was Idaho&#8217;s democratic process-an institutional process founded upon the trust of the people in their legislators to cast votes based on their conscience and legislative merits, not the crude posturing of vexed and obstinate political boss men protecting their turf. Perhaps the hearing was business as usual during the session, but to private citizens observing the unfolding of events, as myself and most of the supporters are, what was most remarkable was Republican Chairman and PERSI Board Member, Kirk Sullivan, who provided no testimony, but merely sat in the front row of the Hearing Room, staring at his party colleagues, ensuring they voted against the bill. Thankfully not all Committee members were intimidated, but enough were, to ensure that the full Idaho Senate could not cast their individual votes to support the President and the Congress, and join half the country, which has already adopted divestment (with the other half now taking it up), in the effort to save lives in Darfur.
+> 
+> While the Idaho Task Force for Divestment is extremely grateful to each of you for your co-sponsorship of this legislation, we call upon you to examine the history of this legislation and to consider the undermining effect of the brazen intrusion into a respected process that relies upon the trust and confidence of individual private citizens in their elected representatives to vote without any perceived or apparent undue influence. Again, thank you.
+> 
+> John Sullivan, coordinator

@@ -1,0 +1,72 @@
+---
+id: 1409
+title: 'A Sunday&#8217;s worth of links: 2012-04-22'
+date: 2012-04-22T17:00:00-07:00
+author: Nathaniel Hoffman
+layout: post
+guid: http://www.paleomedia.org/2012/04/22/a-sundays-worth-of-links-2012-04-22/
+permalink: /2012/04/22/a-sundays-worth-of-links-2012-04-22/
+aktt_tweeted:
+  - "1"
+aktt_notify_twitter:
+  - 'no'
+dsq_thread_id:
+  - "661382421"
+categories:
+  - Asides
+tags:
+  - Links
+  - Twitter
+---
+Archived Twitter links for Apr 15 &#8211; 22 via @paleomedia.<!--more-->
+
+<ul class="aktt_tweet_digest">
+  <li>
+    Man, I wish I had stuck with CS | Data Journalism Scholarships Funded By Google Now Open <a href="http://t.co/UilSmSgI" rel="nofollow">http://t.co/UilSmSgI</a> via @<a href="http://twitter.com/ijnet" class="aktt_username">ijnet</a> <a href="http://twitter.com/paleomedia/statuses/192253179281408001" class="aktt_tweet_time">#</a>
+  </li>
+  <li>
+    Legal or illegal immigration? RT @<a href="http://twitter.com/historianess" class="aktt_username">historianess</a>: In the 1840s, Comanches raided as far south as Queretaro, Zacatecas, and Guadalajara. <a href="http://twitter.com/paleomedia/statuses/192255212059238400" class="aktt_tweet_time">#</a>
+  </li>
+  <li>
+    When setting meetings in other time zones is it polite to use the other person's GMT or one's own? <a href="http://twitter.com/paleomedia/statuses/192317022913302529" class="aktt_tweet_time">#</a>
+  </li>
+  <li>
+    Love the "listening club" concept RT @<a href="http://twitter.com/IJNet" class="aktt_username">IJNet</a>: RT @<a href="http://twitter.com/jhrnews" class="aktt_username">jhrnews</a>: Radio waves inspire change in Malawi &#8211; <a href="http://t.co/oowRHUts" rel="nofollow">http://t.co/oowRHUts</a> #<a href="http://search.twitter.com/search?q=%23rightsmedia" class="aktt_hashtag">rightsmedia</a> <a href="http://twitter.com/paleomedia/statuses/192354541314916352" class="aktt_tweet_time">#</a>
+  </li>
+  <li>
+    Medjool care package from mother-in-law. <a href="http://twitter.com/paleomedia/statuses/192434290619985923" class="aktt_tweet_time">#</a>
+  </li>
+  <li>
+    Coming out as documented-undocumented MT @<a href="http://twitter.com/joseiswriting" class="aktt_username">joseiswriting</a>: A white undocumented immigrant <a href="http://t.co/9897KJjJ.”" rel="nofollow">http://t.co/9897KJjJ.”</a> <a href="http://twitter.com/paleomedia/statuses/192724512566026240" class="aktt_tweet_time">#</a>
+  </li>
+  <li>
+    Why'd they change the name of @<a href="http://twitter.com/ReadItLater" class="aktt_username">ReadItLater</a>? It was already becoming a verb&#8230; <a href="http://twitter.com/paleomedia/statuses/192743734444691456" class="aktt_tweet_time">#</a>
+  </li>
+  <li>
+    I do have some mundane complaints about Boise parking today. <a href="http://twitter.com/paleomedia/statuses/193061472383942657" class="aktt_tweet_time">#</a>
+  </li>
+  <li>
+    Such as, where are the 2 hr. meters? <a href="http://twitter.com/paleomedia/statuses/193061553304641538" class="aktt_tweet_time">#</a>
+  </li>
+  <li>
+    And also, plugging the meter for someone in the process of getting a ticket is a goodwill gesture, not an attack on the ticket writer. <a href="http://twitter.com/paleomedia/statuses/193061802857349120" class="aktt_tweet_time">#</a>
+  </li>
+  <li>
+    Fascinating tweet RT @<a href="http://twitter.com/BoisePD" class="aktt_username">BoisePD</a>: #<a href="http://search.twitter.com/search?q=%23KONY2012" class="aktt_hashtag">KONY2012</a> supporters, pls "keep it legal" if participating in #<a href="http://search.twitter.com/search?q=%23CovertheNight" class="aktt_hashtag">CovertheNight</a> on Fri. <a href="http://t.co/LhWhVYhQ" rel="nofollow">http://t.co/LhWhVYhQ</a> <a href="http://twitter.com/paleomedia/statuses/193199397880864768" class="aktt_tweet_time">#</a>
+  </li>
+  <li>
+    An apple a day &#8230; <a href="http://t.co/bsJuwqUw" rel="nofollow">http://t.co/bsJuwqUw</a> via @<a href="http://twitter.com/theatlantic" class="aktt_username">theatlantic</a> <a href="http://twitter.com/paleomedia/statuses/193436500808040448" class="aktt_tweet_time">#</a>
+  </li>
+  <li>
+    Go Africana Studies! RT @<a href="http://twitter.com/Visually" class="aktt_username">Visually</a>: 10 College Degrees That Won't Get You An Interview #<a href="http://search.twitter.com/search?q=%23infographic" class="aktt_hashtag">infographic</a> <a href="http://t.co/gPhQJmqq" rel="nofollow">http://t.co/gPhQJmqq</a> <a href="http://twitter.com/paleomedia/statuses/193440006419906561" class="aktt_tweet_time">#</a>
+  </li>
+  <li>
+    I think I will RT @<a href="http://twitter.com/AfricasaCountry" class="aktt_username">AfricasaCountry</a>: It's Friday afternoon. Go get a beer and play our #<a href="http://search.twitter.com/search?q=%23BonusMusicBreak" class="aktt_hashtag">BonusMusicBreak</a> .. <a href="http://t.co/wNIdwtDY" rel="nofollow">http://t.co/wNIdwtDY</a> <a href="http://twitter.com/paleomedia/statuses/193440352395472897" class="aktt_tweet_time">#</a>
+  </li>
+  <li>
+    taxidermy, political art, internet privacy: <a href="http://t.co/agpc7YPT" rel="nofollow">http://t.co/agpc7YPT</a> via @<a href="http://twitter.com/mathewi" class="aktt_username">mathewi</a> <a href="http://twitter.com/paleomedia/statuses/193715032440320000" class="aktt_tweet_time">#</a>
+  </li>
+  <li>
+    Time to party, Boise. <a href="http://t.co/ycwmHQ07" rel="nofollow">http://t.co/ycwmHQ07</a> <a href="http://twitter.com/paleomedia/statuses/193792902328094720" class="aktt_tweet_time">#</a>
+  </li>
+</ul>
