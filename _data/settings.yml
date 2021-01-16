@@ -2,13 +2,13 @@
 # General Site Settings
 
 title: Paleomedia
-logo: 
+logo: "assets/images/illustrations/bitmoji2.png"
 author: paleomedia
-description: this is meta description
+description: Paleomedia is writing, editing, and media strategy from Nathaniel Hoffman
 email: nathaniel.hoffman@gmail.com
 phone: 
-address: 
-copyright: Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Getjekyllthemes](https://getjekyllthemes.com)
+address: Boise, Idaho
+copyright: Copyright &copy; 2021 Paleomeida. Theme forked from [Themefisher](https://github.com/themefisher/kross-jekyll) [MIT] (https://github.com/themefisher/kross-jekyll/blob/master/LICENSE.txt)
 
 menu:
 - {name: About, link: '/about'}
