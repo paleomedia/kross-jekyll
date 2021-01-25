@@ -70,7 +70,7 @@
 
 .active-bg-primary {
   transition: .3s ease;
-  background: $primary-color;
+  background: $purple-color;
 
   * {
     color: $white;
@@ -130,6 +130,9 @@
   text-align: center;
 }
 
+.hover-content a {
+  white-space: normal !important;
+}
 /* /portfolio */
 
 /* testimonial */

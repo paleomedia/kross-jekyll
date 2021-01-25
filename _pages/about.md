@@ -6,13 +6,6 @@ image: assets/images/about/author.jpg
 signature: assets/images/about/signature.png
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
-commodo consequat.
+Nathaniel Hoffman’s 20-year career in and around journalism models fearless storytelling that opens up conversations in communities. From challenging racism at the rodeo in Nampa, Idaho, to centering views from across Latin America, Africa, and the Middle East, to calling out the prevalence of anti-immigrant hate at national media outlets, Hoffman has been a perpetually curious, anti-racist, global thinker and writer.
 
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-Excepteur sint occaecat cupidatat non proident.
-
-Deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia.
+Hoffman works with organizations and individual activists to harness local media messages and strengthen local and regional reporting on diverse communities. Hoffman has a BA in Africana studies from Cornell University and an MA in data journalism from Boise State. He lives in Boise, Idaho. Get in touch [@paleomedia](https://twitter.com/paleomedia) or nathaniel.hoffman@gmail.com. [LinkedIn](https://www.linkedin.com/in/hoffmannathaniel/)

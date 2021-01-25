@@ -13,6 +13,7 @@ copyright: Copyright &copy; 2021 Paleomeida. Theme forked from [Themefisher](htt
 menu:
 - {name: About, link: '/about'}
 - {name: Blog, link: '/blog'}
+- {name: Consulting, link: '/consulting'}
 - {name: Portfolio, link: '/portfolio'}
 - {name: Contact, link: '/contact'}
 
@@ -38,7 +39,7 @@ disqus-identifier: # Add your shortname for Disqus Comment. For example mr-brown
 # Hero Section
 
 hero:
-  hero-title: Be the media you want to see in the world.
+  hero-title: Tell fearless stories. Invite big conversations. Transcend worldviews.
 
 social:
 - {icon: "ti-twitter", link: "#twitter.com/paleomedia"}
@@ -51,10 +52,13 @@ social:
 
 # About Section
 blurb:
-  Paleomedia means doing things the right way for maximum impact. 
+  '<span style="font-weight:bold">Paleo·media</span><br/>
+
+  <span style="font-style:italic">adverb:</span> harnessing universal human methods of communication for the modern age.<br/>
+  also, Nathaniel Hoffman’s 20-year alter ego on the web. paleomedia works with organizations and individual activists to harness local media messages and strengthen local and regional reporting on diverse communities. writing / editing / strategy for movements.'
 
 blurb-btn-link: '/about'
-blurb-btn-name: know more
+blurb-btn-name: learn more
 
 
 # About Page
@@ -105,9 +109,9 @@ skills:
 
 experience-title: Experience
 experience:
-- {name: Junior UX Designer, icon: 'icon-1.png', date: 'Jan 2007 - Feb 2009', organization: 'WEBEX'}
-- {name: UX & UI Designer, icon: 'icon-2.png', date: 'Mar 2009 - Aug 2014', organization: 'AUGMEDIX'}
-- {name: Senior UI Designer, icon: 'icon-3.png', date: 'Sep 2014 - Present', organization: 'THEMEFISHER'}
+- {name: Reporter & Editor, icon: 'icon-1.png', date: '2000-2020', organization: 'Idaho Press, Boise Weekly, Contra Costa Times, Independent, The Blue Review'}
+- {name: Communications Manager, icon: 'icon-2.png', date: '2019-2020', organization: 'Define American'}
+- {name: Open Data, icon: 'icon-3.png', date: '2015-2016', organization: 'City of Boise'}
 
 
 #-------------------------------
@@ -115,33 +119,33 @@ experience:
 
 education-title: Education
 education:
-- {name: Marters in UX Design, date: '2006', organization: 'Masassusets Institute of Technology'}
-- {name: Honours in Fine Arts, date: '2004', organization: 'Harvard University'}
-- {name: Higher Secondary Certificat, date: '2000', organization: 'Cardiff School'}
-- {name: Secondary School Certificate, date: '1998', organization: 'Cardiff School'}
+- {name: Masters in Data Journalism, date: '2016', organization: 'Boise State University'}
+- {name: B.A., Africana Studies, date: '1999', organization: 'Cornell University'}
+- {name: Silicon Valley Product Group Training, date: '2018', organization: 'Healthwise'}
+- {name: Writing News, Beirut, Lebanon, date: '2006', organization: 'Reuters Foundation Fellowship'}
 
 
 #-------------------------------
 # Services Section
 
-services-title: Services
+services-title: Partner with Paleomedia
 services:
 - {
-    name: UI Design,
-    icon: ti-palette,
-    description: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.',
+    name: Writing,
+    icon: ti-pencil,
+    description: 'Establish your own platform through the written word. Speeches, articles, info releases, tweets, etc. We help you make meaning and build truths.',
     active: # Add true to select section
   }
 - {
-    name: UX Design,
-    icon: ti-vector,
-    description: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.',
+    name: Editing,
+    icon: ti-comment-alt,
+    description: 'Professional editing, in all styles.',
     active: true # Add true to select section
   }
 - {
-    name: Interaction Design,
-    icon: ti-panel,
-    description: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.',
+    name: Public Communication,
+    icon: ti-signal,
+    description: 'Create change through media messaging in hyperlocal markets.',
     active: # Add true to select section
   }
 
@@ -152,20 +156,25 @@ services:
 
 # Portfolio Home Section
 portfolio-home-items:
-  - image : "assets/images/portfolio/item-1.png"
-    url: "#"
+  - image : "assets/images/portfolio/ourprism.png"
+    url: "https://www.prismreports.org/article/2020/3/9/news-outlets-must-stop-running-white-nationalist-propaganda"
+    hoverText: Co-authored essay for The Prism on anti-immigrant groups using mainstream media orgs for messaging.
     
-  - image : "assets/images/portfolio/item-2.png"
-    url: "#"
+  - image : "assets/images/portfolio/idaho97_screenshot.png"
+    url: "https://www.theidaho97.org/"
+    hoverText: Built site, digital strategy, member emails & graphics for The Idaho 97 Project.
     
-  - image : "assets/images/portfolio/item-3.png"
-    url: "#"
+  - image : "assets/images/portfolio/old-men-cuba.jpg"
+    url: "https://www.idahopress.com/boiseweekly/news/features/butch-vs-the-embargo/article_0e64e021-eb76-5809-85d8-9ae85357e18d.html"
+    hoverText: Wrote about Cuba on two trips in the early 2000s.
     
-  - image : "assets/images/portfolio/item-4.png"
-    url: "#"
-    
-  - image : "assets/images/portfolio/item-5.png"
-    url: "#"
+  - image : "assets/images/portfolio/amorexile.jpg"
+    url: "http://amorandexile.com/"
+    hoverText: Authored book with co-author Nicole Salgado.
+
+  - image : "assets/images/portfolio/ramos.png"
+    url: "https://www.autonomy-strategies.com/"
+    hoverText: Built Wix site for colleage Kristian Ramos at Autonomy Strategies.
 
 
 # Portfolio Page
@@ -258,34 +267,16 @@ testimonial-items:
 # Client Slider Section
 
 client-slider-items:
-  - logo: "assets/images/clients-logo/client-logo-1.png"
+  - logo: "assets/images/clients-logo/idaho97_logo.png"
     url: "#"
     
-  - logo: "assets/images/clients-logo/client-logo-2.png"
+  - logo: "assets/images/clients-logo/ramos_logo.png"
     url: "#"
     
-  - logo: "assets/images/clients-logo/client-logo-3.png"
-    url: "#"
-    
-  - logo: "assets/images/clients-logo/client-logo-4.png"
-    url: "#"
-    
-  - logo: "assets/images/clients-logo/client-logo-5.png"
-    url: "#"
-    
-  - logo: "assets/images/clients-logo/client-logo-1.png"
-    url: "#"
-    
-  - logo: "assets/images/clients-logo/client-logo-2.png"
-    url: "#"
-    
-  - logo: "assets/images/clients-logo/client-logo-3.png"
+  - logo: "assets/images/clients-logo/iop_logo.png"
     url: "#"
     
   - logo: "assets/images/clients-logo/client-logo-4.png"
-    url: "#"
-    
-  - logo: "assets/images/clients-logo/client-logo-5.png"
     url: "#"
 
 #-------------------------------

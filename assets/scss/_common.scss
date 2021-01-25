@@ -1,5 +1,7 @@
 body {
-  background-color: $body-color;
+  background: $body-color url(/assets/images/backgrounds/ricepaper2.jpg);
+  background-size: 300px 300px;
+  background-repeat: repeat;
   overflow-x: hidden;
 }
 
@@ -186,6 +188,11 @@ a:hover {
   font-family: $secondary-font !important;
 }
 
+.logo-font {
+  font-family: $logo-font !important;
+  font-weight: bold;
+}
+
 .font-tertiary {
   font-family: $tertiary-font !important;
 }
@@ -272,14 +279,6 @@ textarea.form-control{
   }
 }
 /* /card */
-
-.carousel-caption h2, p{
-  color:#f8f9fa;
-}
-
-.body{
-  margin-top:149px;
-}
 
 .marker{
   position:relative;

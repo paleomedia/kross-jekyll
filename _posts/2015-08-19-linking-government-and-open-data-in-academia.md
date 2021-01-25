@@ -6,6 +6,7 @@ author: Nathaniel Hoffman
 layout: post
 guid: http://www.paleomedia.org/?p=1578
 permalink: /2015/08/19/linking-government-and-open-data-in-academia/
+image: /assets/images/blog/protein_structure.jpg
 categories:
   - Open Data
   - Research

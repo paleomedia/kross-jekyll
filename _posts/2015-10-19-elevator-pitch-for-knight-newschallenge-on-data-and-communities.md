@@ -6,7 +6,7 @@ author: Nathaniel Hoffman
 layout: post
 guid: http://www.paleomedia.org/?p=1596
 permalink: /2015/10/19/elevator-pitch-for-knight-newschallenge-on-data-and-communities/
-image: /wp-content/themes/tma/images/Cairn.jpeg
+image: /assets/images/blog/Cairn.jpeg
 categories:
   - Journalism 2.0
   - Open Data

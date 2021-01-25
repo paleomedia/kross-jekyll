@@ -17,7 +17,7 @@
 .navbar{
   .nav-item{
     .nav-link{
-      font-family: $tertiary-font;
+      font-family: $primary-font;
       text-transform: uppercase;
       padding: 15px;
     }
@@ -32,5 +32,5 @@
 }
 
 .navbar-brand img {
-  height: 115px;
+  height: 80px;
 }

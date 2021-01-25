@@ -6,8 +6,10 @@ author: Nathaniel Hoffman
 layout: post
 guid: http://www.paleomedia.org/?p=1505
 permalink: /2013/09/30/data-journalism/
+image: /assets/images/blog/networkgraph.png
 categories:
   - Journalism 2.0
+tags: Journalism
 ---
 _Copied below is my proposal, to be submitted today, for an [Interdisciplinary Studies](http://coas.boisestate.edu/interdisciplinary-studies-program/) MA in Data Journalism at Boise State. It includes a [list of courses I&#8217;ll be taking](#courses) through the Fall of 2015:_
 

@@ -56,7 +56,9 @@
             c8left = document.getElementById('l8').offsetLeft,
             c8top = document.getElementById('l8').offsetTop,
             c9left = document.getElementById('l9').offsetLeft,
-            c9top = document.getElementById('l9').offsetTop;
+            c9top = document.getElementById('l9').offsetTop,
+            c10left = document.getElementById('l10').offsetLeft,
+            c10top = document.getElementById('l10').offsetTop;
 
         parallaxBox.onmousemove = function (event) {
             event = event || window.event;
@@ -72,6 +74,7 @@
             mouseParallax('l7', c7left, c7top, x, y, 30);
             mouseParallax('l8', c8left, c8top, x, y, 25);
             mouseParallax('l9', c9left, c9top, x, y, 40);
+            mouseParallax('l10', c10left, c10top, x, y, 25);
         };
 
     };
