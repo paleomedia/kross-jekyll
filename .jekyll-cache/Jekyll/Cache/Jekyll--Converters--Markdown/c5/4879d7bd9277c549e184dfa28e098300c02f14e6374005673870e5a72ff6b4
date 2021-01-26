@@ -1,0 +1,36 @@
+I"�<p>About a year ago, I quit a good journalism job to write a <a href="http://amorandexile.com">book</a>. At the time, I had an idea for a new crucible for nonfiction books: realizing that (a) books still sell (whether e-books or paper books) and (b) many journalists would love the time and space to develop a non-fiction book project, the idea was to launch a journalistic enterprise in which the end product was a steady stream of non-fiction books (and documentary films), the sale of which would fund all of the journalism that went into their production. I called it Retroper and it got an honorable mention at the <a href="http://idahobusinessreview.com/2010/05/24/social-networking-buying-scheme-wins-startup-weekend/">2010 Idaho Startup Weekend</a>, (i.e.., no funding, but still, a nice pat on the back for 48 hours of brainstorming).</p>
+
+<p>So if books and films were the ultimate goal of the journalism, what were we to call the smaller works created along the way. The idea forced me to consider what the essential, elemental unit of journalism should be (besides facts), and I concluded that it is something that does not yet exist. So I gave it a name: the trope.</p>
+
+<p>In the last week, since New York Times reporter Brian Stelter <a href="http://thedeadline.tumblr.com/post/5904630983/what-i-learned-in-joplin">blogged about his experience tweeting the aftermath of the Joplin tornado</a>, there has been a flurry of discussion surrounding the units of journalism. Jeff Jarvis posited that the <a href="http://www.buzzmachine.com/2011/05/28/the-article-as-luxury-or-byproduct/">“article” was merely a luxury</a> (the time to read articles certainly is).</p>
+
+<blockquote>
+  <p>Articles are wonderful. But they are no longer necessary for every event. They were a necessary form for newspapers and news shows but not the free flow, the never-starting, never-ending stream of digital. Sometimes, a quick update is sufficient; other times a collection of videos can do the trick. Other times, articles are good. —Jarvis</p>
+</blockquote>
+
+<p>This led to much semantic back and forth, <a href="http://www.niemanlab.org/2011/06/this-week-in-review-the-times-changing-of-the-guard-the-news-articles-future-and-pbs-is-attacked/">summarized well at Nieman</a>. But no one has answered the question as to what a post-article journalism will eventually look like.</p>
+
+<p>Last week, at the Knight Digital Media Center, Amy Gahran posted a call for a <a href="http://www.knightdigitalmediacenter.org/leadership_blog/comments/20110602_the_lego_approach_to_storytelling/">lego approach to storytelling</a> that contains some really good specs for programmers.</p>
+
+<blockquote>
+  <p>A good modular content management tool would make creating stories more like playing with Legos: journalists and editors could movie pieces around, add context and updates, and otherwise play with the content (perhaps in response to how people are using it), without disturbing the permalinks for each content piece and without having to rework all the navigation manually. — Gahran</p>
+</blockquote>
+
+<p>The trope, as I thought of it a year ago, is a journalistic process that lives on the web, but challenges the boundaries of both the web browser and the screen. It almost has to be 3D. It’s the entire body of research and reporting that goes into a non-fiction book. It contains text, video, photos and audio and, most importantly it’s collaborative and interactive. I think of it as a mind map of the reporter, marked up by the audience. Also, it grows as the project grows; we played around with Google Wave a bit for this, but alas, that is gone.</p>
+
+<p>So how do you display a constantly shifting cache of information like this?</p>
+
+<p>I originally sketched it out like this:</p>
+
+<figure id="attachment_1028" aria-describedby="caption-attachment-1028" style="width: 300px" class="wp-caption aligncenter">[<img loading="lazy" src="http://www.paleomedia.org/wp-content/themes/tma/images/7604636-300x242.jpg" alt="" title="The trope" width="300" height="242" class="size-medium wp-image-1028" srcset="http://www.paleomedia.org/wp-content/themes/tma/images/7604636-300x242.jpg 300w, http://www.paleomedia.org/wp-content/themes/tma/images/7604636.jpg 596w" sizes="(max-width: 300px) 100vw, 300px" />](http://www.paleomedia.org/wp-content/themes/tma/images/7604636.jpg)<figcaption id="caption-attachment-1028" class="wp-caption-text">Original sketch of the trope, the new basic unit of journalism. Starts with a tweet at the top and ends with a full, published book .</figcaption></figure>
+
+<p>Now I am thinking the user interface might work a lot like an iPod Twitter app like Hootsuite or Seesmic works, where short posts and commentary on a single topic are linked to longer “articles” and eventually chapters and full books. I think of those apps starting with a tweet and then taking the reader deeper and deeper into the story with the swipe of a finger. I really don’t know how to describe this graphically at this point. It goes <a href="http://storify.com/paleomedia/get-ready-for-radio-boise">beyond Storify</a> [my first attempt at using the site], which does allow a writer to assemble bits from all over the web into a timeline of sorts.</p>
+
+<p>I also really like the idea proposed by Gerry Marzorati, a former New York Times Magazine editor, of <a href="http://www.niemanlab.org/2011/03/a-hive-of-long-form-journalists-gerry-marzorati-and-mark-danner-on-a-new-model-for-long-form/">cultivating a “hive” of long-form, nonfiction writers</a>. This is what I envisioned for Retroper as well: a hive of reporters working on big stories and shepherding the efforts of citizen journalists, sources and readers as they work toward nailing the story.</p>
+
+<blockquote>
+  <p>You will have to at least start by building the brand around a handful of these writers, and then, how I would go about it, would be just: Surround, immerse each of these writers in social media tools. The writers would sort of be the hive, and the experience people would be coming for would be not only to read and encounter the writer, but also the community that this writer had created. —Marzorati, via Lois Beckett at Nieman</p>
+</blockquote>
+
+<p>I’ve tried to do some this in a very small way with my own book, but frankly, it’s really hard to write a book and to do journalism without any institutional backing, and my blogging about the project took a backseat to research, writing and seeking an outlet for the finished project. So I still think a lab of sorts—complete with editors, designers and access to printing presses—for reporters working on books would be a worthy experiment. Perhaps when Amor and Exile is published I’ll take up the idea again, but I’d also be happy to have someone else do this and then hire me to write my second book. Any takers?</p>
+:ET

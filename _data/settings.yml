@@ -8,7 +8,7 @@ description: Paleomedia is writing, editing, and media strategy from Nathaniel H
 email: nathaniel.hoffman@gmail.com
 phone: 
 address: Boise, Idaho
-copyright: Copyright &copy; 2021 Paleomeida. Theme forked from [Themefisher](https://github.com/themefisher/kross-jekyll) [MIT] (https://github.com/themefisher/kross-jekyll/blob/master/LICENSE.txt)
+copyright: Copyright &copy; 2021 Paleomeida. Theme forked from [Themefisher](https://github.com/themefisher/kross-jekyll) [MIT](https://github.com/themefisher/kross-jekyll/blob/master/LICENSE.txt)
 
 menu:
 - {name: About, link: '/about'}

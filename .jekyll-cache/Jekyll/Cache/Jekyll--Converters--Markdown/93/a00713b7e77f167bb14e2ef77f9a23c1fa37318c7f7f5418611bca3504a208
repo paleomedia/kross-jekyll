@@ -1,0 +1,57 @@
+I"�<p>I’ve been working on an idea for the <a href="https://www.newschallenge.org/challenge/data/entries/data-cairn">Knight Foundation News Challenge on data and communities</a> and wanted to share the evolution of our one line, elevator pitch for the project.</p>
+
+<p>The proposal is to take the idea of a “data repository” (like <a href="http://data.gov">data.gov</a>, or the City of <a href="http://opendata.cityofboise.org/">Boise’s growing data portal</a> hosted by ESRI’s Open Data platform, which I’m also working on), that offers bulk data downloads of civic info, and add two more types of data to the catalog: <strong>research that actaully uses the data</strong> and <strong>media reporting on the data</strong>.</p>
+
+<p>I call this “data in its context,” or “the work done on the data,” and I think it will be convenient to have it all in one place. Also, I think average citizens will be able to make better use of it, better interpret the numbers and contribute back to the research and reporting with their own local insights.</p>
+
+<p>My first stab at explaining this was pretty high level and I still like it:</p>
+
+<blockquote>
+  <p><span style="font-weight: 400;">Draft 1</span></p>
+
+  <p><span style="font-weight: 400;">We’re organizing the web in Boise around community data, locally relevant research, government reports and the news in a structured way that scales to local internet spaces around the world.</span></p>
+</blockquote>
+
+<p>But it did not speak to the power of communities harnessing their own data, which is the point.</p>
+
+<blockquote>
+  <p><span style="font-weight: 400;">Draft 2</span></p>
+
+  <p><span style="font-weight: 400;">We’re organizing the web in Boise, Idaho, around community data, relevant research, government reports, local journalism and public ideas in a structured way that scales to communities around the world.</span></p>
+</blockquote>
+
+<p>Someone pointed out to me that its not the web that needs organizing, it’s the locally relevant data, thus:</p>
+
+<blockquote>
+  <p><span style="font-weight: 400;">Draft 3</span></p>
+
+  <p><span style="font-weight: 400;">We’re organizing community data alongside relevant research, government reports, local journalism and public ideas in Boise, Idaho with a web app that will scale to benefit communities around the world.</span></p>
+</blockquote>
+
+<p>Then, how will it benefit these communities?</p>
+
+<blockquote>
+  <p>Draft 4</p>
+
+  <p><span style="font-weight: 400;">We’re marshalling community data alongside relevant university research, government reports, local journalism and public ideas in Boise, Idaho with an open source web app that communities across the world can use to tell their own data stories.</span></p>
+</blockquote>
+
+<p>Finally after much work and input from many folks, including and intense “<a href="http://webarchive.nationalarchives.gov.uk/20121026065214/http://www.mod.uk/NR/rdonlyres/B0558FA0-6AA7-4226-A24C-2B7F3CCA9A7B/0/RedTeamingGuiderevised12Feb10Webversion.pdf">Red Team</a>” (pdf) session at Boise State, I arrived at this draft:</p>
+
+<blockquote>
+  <p><span style="font-weight: 400;">Draft 5</span></p>
+
+  <p><span style="font-weight: 400;">Data Cairn is a platform for data storytelling, starting in Southwest Idaho, that allows communities to harness their data along with </span><strong>the work being done on it</strong><span style="font-weight: 400;">: relevant university research, government reports, local journalism, visualizations, public ideas and more, in order to discover and demand better solutions.</span></p>
+</blockquote>
+
+<p>The feedback phase for the Knight News Challenge is open for one more day, so <a href="https://www.newschallenge.org/challenge/data/entries/data-cairn">feel free to leave more feedback and applause</a>, if warranted, on our proposal. There are <a href="https://www.newschallenge.org/challenge/data/entries?order=applause&amp;direction=desc">tons of other cool projects</a> on there as well. Well, 1,028 other cool projects …</p>
+
+<p>Here’s a few I like:</p>
+
+<ul>
+  <li><a href="https://www.newschallenge.org/challenge/data/entries/openaq-the-first-open-air-quality-data-hub-for-the-world">OpenAQ: Opening Up the World’s Real-Time Air Quality Data</a></li>
+  <li><a href="https://www.newschallenge.org/challenge/data/entries/politaoke-turning-contemporary-political-speeches-into-karaoke-events-making-the-data-available-worldwide">Politaoke: Turning Contemporary Political Speeches into Karaoke Events &amp; Making the Data Available Worldwide</a></li>
+  <li><a href="https://www.newschallenge.org/challenge/data/entries/mbongi-africana-studies">Mbongi – Africana Studies</a></li>
+  <li><a href="https://www.newschallenge.org/challenge/data/entries/decoding-the-flow-of-personal-data">Decoding the flow of personal data</a></li>
+</ul>
+:ET
