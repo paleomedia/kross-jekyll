@@ -47,6 +47,20 @@ social:
 - {icon: "ti-linkedin", link: "https://linkedin.com/hoffmannathaniel"}
 - {icon: "ti-facebook", link: "https://facebook.com/nathanieljudd"}
 
+above-fold-items:
+  - image : "assets/images/experience/guate.JPG"
+    url: "https://www.prismreports.org/article/2020/3/9/news-outlets-must-stop-running-white-nationalist-propaganda"
+    Text: Co-authored essay for The Prism on anti-immigrant groups using mainstream media orgs for messaging.
+
+  - image : "assets/images/experience/westbank.JPG"
+    url: "https://www.prismreports.org/article/2020/3/9/news-outlets-must-stop-running-white-nationalist-propaganda"
+    Text: Co-authored essay for The Prism on anti-immigrant groups using mainstream media orgs for messaging.
+
+  - image : "assets/images/experience/idahopress.jpg"
+    url: "https://www.prismreports.org/article/2020/3/9/news-outlets-must-stop-running-white-nationalist-propaganda"
+    Text: Co-authored essay for The Prism on anti-immigrant groups using mainstream media orgs for messaging.
+
+
 #-------------------------------
 # About (Section and Page)
 
