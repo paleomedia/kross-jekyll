@@ -322,3 +322,62 @@ textarea.form-control{
   top:0.1em;
   padding:0 0.25em;
 }
+
+/* buttons */
+.btn {
+  display: inline-block;
+  text-decoration: none; 
+  padding: .75em 2em;
+  border: 2px solid;
+  font-weight: bold;
+  line-height: 1;
+  background: transparent;
+  border-radius: 0;
+  margin-top: 2em;
+}
+
+.btn--one {
+  color: white;
+}
+
+.btn--one:hover {
+  background: white;
+  color: black;
+  border-color: white;
+}
+
+.btn--three:hover {
+  background: yellow;
+  color: black;
+  border-color: yellow;
+}
+
+.btn--two:hover {
+  background: #00FDCF;
+  color: black;
+  border-color: #00FDCF;
+}
+
+.btn--two {
+  color: #00FDCF;
+}
+
+.btn--three {
+  color: yellow;
+}
+
+.btn+.btn {
+  margin-left: 1.25em;
+}
+
+.blksection {
+  background: black;
+}
+
+.lead {
+  font-size: 2.1em;
+  line-height: 1.5;
+  font-weight: bold;
+  margin: 3em 0 calc(3em+5vh);
+  color: white;
+}
