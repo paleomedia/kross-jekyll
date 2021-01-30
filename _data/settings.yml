@@ -48,18 +48,29 @@ social:
 - {icon: "ti-facebook", link: "https://facebook.com/nathanieljudd"}
 
 above-fold-items:
-  - image : "assets/images/experience/guate.JPG"
-    url: "https://www.prismreports.org/article/2020/3/9/news-outlets-must-stop-running-white-nationalist-propaganda"
-    Text: Co-authored essay for The Prism on anti-immigrant groups using mainstream media orgs for messaging.
+  - image : "assets/images/experience/westbank.png"
+    url: "#"
+    Text: FEARLESS STORYTELLING
+    subhead: Nathaniel Hoffman has been a writer and editor for 20 years.
+    author:
+    date:
+    active:
 
-  - image : "assets/images/experience/westbank.JPG"
-    url: "https://www.prismreports.org/article/2020/3/9/news-outlets-must-stop-running-white-nationalist-propaganda"
-    Text: Co-authored essay for The Prism on anti-immigrant groups using mainstream media orgs for messaging.
+  - image : "assets/images/experience/idaho97signs.png"
+    url: "#"
+    Text: BIG CONVERSATIONS
+    subhead: Hoffman connects people and ideas through the power of local media.
+    author:
+    date:
+    active:
 
-  - image : "assets/images/experience/idahopress.jpg"
-    url: "https://www.prismreports.org/article/2020/3/9/news-outlets-must-stop-running-white-nationalist-propaganda"
-    Text: Co-authored essay for The Prism on anti-immigrant groups using mainstream media orgs for messaging.
-
+  - image : "assets/images/experience/guate.png"
+    url: "#"
+    Text: TRANSCEND WORLDVIEWS
+    subhead: Our collective thriving depends on breaking through our own deeply entrenched beliefs and assumptions.
+    author:
+    date:
+    active: active
 
 #-------------------------------
 # About (Section and Page)

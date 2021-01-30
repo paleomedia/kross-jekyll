@@ -325,6 +325,19 @@ textarea.form-control{
 }
 
 /* about-section buttons */
+.above-fold {
+  position: relative;
+  margin-top: -123px;
+}
+
+.above-fold .row { 
+  margin-bottom: -72px;
+}
+.absolute-holder {
+  position: absolute;
+  top: 0;
+}
+
 .btn {
   display: inline-block;
   text-decoration: none; 
@@ -437,7 +450,10 @@ diagonals
 /* Credits to https://bootsnipp.com/snippets/1d3X9 */
 
 .b-0 {
-  bottom: 0;
+  bottom: 20%;
+}
+.p-2 {
+  padding: 2.5rem!important;
 }
 .bg-shadow {
   background: rgba(76, 76, 76, 0);
@@ -462,4 +478,8 @@ diagonals
 .zoom:hover img {
   -webkit-transform: scale(1.1);
   transform: scale(1.1);
+}
+.text-hed {
+  color: #ffdf2b;
+  text-transform: capitalize !important;
 }

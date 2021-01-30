@@ -1,8 +1,12 @@
 .navigation{
-  padding: 40px 130px;
+  position: relative;
+  min-height: 114px;
+  padding: 30px 75px;
   transition: .3s ease;
+  background: white;
+  opacity: 1;
   &.nav-bg {
-    background-color: $primary-color;
+    background-color:none;
     padding: 15px 100px;
     @include desktop {
       padding: 15px 20px;
@@ -10,11 +14,18 @@
   }
   @include desktop {
     padding: 20px;
-    background: $primary-color;
+    background: none;
   }
 }
 
 .navbar{
+  position:fixed;
+  width:100%;
+  z-index:10;
+  border-radius:0;
+  border-color:transparent;
+  top: 30px;
+
   .nav-item{
     .nav-link{
       font-family: $primary-font;
